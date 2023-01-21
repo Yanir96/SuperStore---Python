@@ -1,0 +1,1301 @@
+id,product_type,brand,model,year,price,CPU,hard disk,screen,cellular network,num cores,camera resolution
+57548128,laptop,Apple,MacBook 2,2022,5052,Intel Core i5,2000,19,,,
+61469356,laptop,Apple,MacBook 1,2021,5759,Intel Core i3,1000,21,,,
+13329829,laptop,Apple,MacBook 2 Pro,2022,5620,Intel Core i3,512,19,,,
+91239704,laptop,HP,DW 13,2020,3060,Intel Core i7,256,17,,,
+98703492,laptop,Apple,MacBook 2,2022,5424,Intel Core i7,512,19,,,
+80390186,laptop,Apple,MacBook 1 Pro,2021,5684,Intel Core i7,256,17,,,
+27757026,laptop,Asos,VIVO 16,2018,7527,Intel Core i5,2000,24,,,
+88339359,laptop,Asos,VIVO 16 Pro,2018,5921,Intel Core i3,1000,24,,,
+60543957,laptop,HP,DW 12,2019,4007,Intel Core i5,1000,24,,,
+22948851,laptop,Apple,MacBook 2,2022,5521,Intel Core i3,256,12,,,
+32132476,laptop,Asos,VIVO 20,2022,2715,Intel Core i3,1000,24,,,
+59439687,laptop,Asos,VIVO 17 Pro,2019,5493,Intel Core i3,2000,19,,,
+39814316,laptop,Apple,MacBook 2,2022,5146,Intel Core i3,2000,8,,,
+28902129,laptop,Asos,VIVO 20,2022,3755,Intel Core i3,2000,19,,,
+65177596,laptop,Lenovo,IdeaPad 6,2019,4485,Intel Core i7,512,8,,,
+36990588,laptop,Lenovo,IdeaPad 9,2022,4493,Intel Core i5,1000,21,,,
+80559580,laptop,Lenovo,IdeaPad 8,2021,4202,Intel Core i7,512,8,,,
+24921543,laptop,Lenovo,IdeaPad 6,2019,3834,Intel Core i3,1000,17,,,
+94043916,laptop,Apple,MacBook 1,2021,5079,Intel Core i5,256,21,,,
+80748903,laptop,HP,DW 11,2018,5650,Intel Core i5,256,21,,,
+62874963,laptop,Asos,VIVO 19,2021,2625,Intel Core i5,256,21,,,
+30943875,laptop,Asos,VIVO 20,2022,3295,Intel Core i3,1000,10,,,
+42064540,laptop,Lenovo,IdeaPad 7 Pro,2020,4143,Intel Core i7,2000,10,,,
+70022799,laptop,Lenovo,IdeaPad 6,2019,4732,Intel Core i3,2000,12,,,
+99773154,laptop,Apple,MacBook 2,2022,5570,Intel Core i5,2000,12,,,
+22809435,laptop,Asos,VIVO 17,2019,4132,Intel Core i5,2000,8,,,
+86928223,laptop,Asos,VIVO 18,2020,3439,Intel Core i3,1000,19,,,
+89147662,laptop,Asos,VIVO 19 Pro,2021,4754,Intel Core i5,512,8,,,
+55735698,laptop,Asos,VIVO 16,2018,5366,Intel Core i5,2000,17,,,
+19750030,laptop,HP,DW 13,2020,4325,Intel Core i7,2000,12,,,
+13963110,laptop,Asos,VIVO 15,2017,5935,Intel Core i3,512,21,,,
+72374372,laptop,Asos,VIVO 17,2019,3424,Intel Core i7,1000,19,,,
+92743163,laptop,HP,DW 15,2022,1598,Intel Core i7,2000,19,,,
+64753367,laptop,Apple,MacBook 1,2021,5850,Intel Core i3,256,21,,,
+18974542,laptop,HP,DW 13,2020,1996,Intel Core i3,512,17,,,
+23553991,laptop,Apple,MacBook 2,2022,5935,Intel Core i7,2000,8,,,
+16912811,laptop,Apple,MacBook 1,2021,5052,Intel Core i3,256,12,,,
+13910083,laptop,Apple,MacBook 1,2021,5808,Intel Core i7,512,24,,,
+64412884,laptop,Asos,VIVO 19,2021,4758,Intel Core i7,1000,19,,,
+29329236,laptop,Asos,VIVO 17,2019,3378,Intel Core i7,2000,19,,,
+78396010,laptop,HP,DW 14,2021,3589,Intel Core i7,256,17,,,
+31440331,laptop,Apple,MacBook 1,2021,5781,Intel Core i3,1000,12,,,
+67017849,laptop,Apple,MacBook 1,2021,5830,Intel Core i7,512,19,,,
+69374241,laptop,Apple,MacBook 1,2021,5327,Intel Core i3,256,17,,,
+95933787,laptop,Asos,VIVO 18,2020,4005,Intel Core i3,256,21,,,
+66221756,laptop,HP,DW 11,2018,6791,Intel Core i3,512,24,,,
+99764141,laptop,Asos,VIVO 18,2020,3688,Intel Core i5,1000,12,,,
+82606142,laptop,HP,DW 15,2022,1611,Intel Core i7,256,12,,,
+56787316,laptop,Lenovo,IdeaPad 8,2021,5275,Intel Core i5,2000,21,,,
+60193374,laptop,Lenovo,IdeaPad 5 Pro,2018,9169,Intel Core i5,512,12,,,
+64395324,laptop,HP,DW 10 Pro,2017,5520,Intel Core i3,512,8,,,
+57005815,laptop,Apple,MacBook 2,2022,5857,Intel Core i3,2000,12,,,
+58800601,laptop,Asos,VIVO 19,2021,3042,Intel Core i5,256,12,,,
+86494009,laptop,Apple,MacBook 1,2021,5142,Intel Core i5,1000,12,,,
+60263325,laptop,HP,DW 14,2021,4450,Intel Core i3,1000,17,,,
+64062373,laptop,Apple,MacBook 1,2021,5694,Intel Core i5,1000,21,,,
+56564405,laptop,Asos,VIVO 18,2020,4937,Intel Core i7,256,17,,,
+89562500,laptop,Lenovo,IdeaPad 9,2022,4105,Intel Core i7,1000,21,,,
+60259365,laptop,Lenovo,IdeaPad 5,2018,8254,Intel Core i5,1000,12,,,
+61037372,laptop,Lenovo,IdeaPad 6,2019,5372,Intel Core i7,2000,24,,,
+45687285,laptop,Lenovo,IdeaPad 7,2020,4262,Intel Core i3,256,17,,,
+68429800,laptop,Asos,VIVO 19,2021,4574,Intel Core i7,2000,24,,,
+97885357,laptop,Apple,MacBook 2,2022,5857,Intel Core i7,2000,21,,,
+36434574,laptop,Lenovo,IdeaPad 8,2021,5297,Intel Core i3,1000,19,,,
+59967445,laptop,Lenovo,IdeaPad 5,2018,7027,Intel Core i7,2000,12,,,
+86402378,laptop,Asos,VIVO 20 Pro,2022,3792,Intel Core i5,1000,24,,,
+31857466,laptop,Lenovo,IdeaPad 7,2020,4822,Intel Core i5,512,12,,,
+22879891,laptop,Apple,MacBook 2,2022,5282,Intel Core i7,512,12,,,
+67397238,laptop,Apple,MacBook 2,2022,5706,Intel Core i5,256,19,,,
+55845858,laptop,Lenovo,IdeaPad 8,2021,4910,Intel Core i7,256,24,,,
+73668208,laptop,Asos,VIVO 16,2018,5956,Intel Core i5,1000,8,,,
+13757978,laptop,Apple,MacBook 2 Pro,2022,5518,Intel Core i3,2000,10,,,
+22797644,laptop,Asos,VIVO 17 Pro,2019,3042,Intel Core i7,512,21,,,
+14443072,laptop,Asos,VIVO 16 Pro,2018,7983,Intel Core i5,512,21,,,
+10928568,laptop,Lenovo,IdeaPad 7,2020,3919,Intel Core i7,512,21,,,
+90868327,laptop,Apple,MacBook 2,2022,5203,Intel Core i7,1000,12,,,
+41769986,laptop,Apple,MacBook 2,2022,5240,Intel Core i7,1000,8,,,
+27827345,laptop,Asos,VIVO 15,2017,6871,Intel Core i5,256,8,,,
+57319193,laptop,HP,DW 14,2021,3700,Intel Core i3,512,24,,,
+35742266,laptop,Lenovo,IdeaPad 6,2019,4776,Intel Core i7,256,12,,,
+58249935,laptop,HP,DW 13,2020,3162,Intel Core i7,2000,12,,,
+15285578,laptop,HP,DW 13 Pro,2020,3989,Intel Core i5,2000,24,,,
+73041597,laptop,Lenovo,IdeaPad 7 Pro,2020,5366,Intel Core i7,256,12,,,
+58575640,laptop,Apple,MacBook 1,2021,5159,Intel Core i5,2000,19,,,
+96624551,laptop,Apple,MacBook 1,2021,5622,Intel Core i7,512,21,,,
+24495077,laptop,Asos,VIVO 20 Pro,2022,3753,Intel Core i3,256,19,,,
+55100512,laptop,Lenovo,IdeaPad 6 Pro,2019,5348,Intel Core i5,512,21,,,
+68027064,laptop,Apple,MacBook 2,2022,5946,Intel Core i7,512,10,,,
+67776588,laptop,Asos,VIVO 16,2018,6899,Intel Core i3,2000,12,,,
+97309719,laptop,Asos,VIVO 15,2017,7699,Intel Core i5,256,24,,,
+60270774,laptop,Lenovo,IdeaPad 6,2019,4065,Intel Core i5,2000,19,,,
+58570289,laptop,Asos,VIVO 17 Pro,2019,4957,Intel Core i5,256,17,,,
+95466170,laptop,HP,DW 12 Pro,2019,3609,Intel Core i3,512,21,,,
+53287458,laptop,Asos,VIVO 18 Pro,2020,3365,Intel Core i3,1000,10,,,
+42084622,laptop,HP,DW 12,2019,3794,Intel Core i3,1000,8,,,
+70911228,laptop,HP,DW 12 Pro,2019,2554,Intel Core i3,512,8,,,
+63192693,laptop,Lenovo,IdeaPad 5 Pro,2018,8204,Intel Core i3,256,19,,,
+81289986,laptop,Apple,MacBook 1,2021,5199,Intel Core i5,2000,19,,,
+38837755,laptop,Asos,VIVO 15 Pro,2017,7172,Intel Core i3,2000,8,,,
+45062080,laptop,Lenovo,IdeaPad 5,2018,7794,Intel Core i3,2000,17,,,
+23118690,laptop,Apple,MacBook 2,2022,5431,Intel Core i5,256,19,,,
+50224043,laptop,HP,DW 14,2021,2142,Intel Core i5,1000,19,,,
+82887229,laptop,Asos,VIVO 20,2022,3160,Intel Core i7,2000,10,,,
+24800590,laptop,Lenovo,IdeaPad 7,2020,3664,Intel Core i5,1000,8,,,
+46106027,laptop,HP,DW 11 Pro,2018,6230,Intel Core i3,1000,19,,,
+35598018,laptop,HP,DW 15,2022,4349,Intel Core i3,1000,17,,,
+94186118,laptop,Lenovo,IdeaPad 7,2020,4763,Intel Core i7,256,24,,,
+19974603,laptop,HP,DW 10,2017,5736,Intel Core i7,256,21,,,
+49569424,laptop,HP,DW 14,2021,2966,Intel Core i5,1000,17,,,
+43400046,laptop,Apple,MacBook 2,2022,5037,Intel Core i3,512,19,,,
+52485697,laptop,Lenovo,IdeaPad 5,2018,8422,Intel Core i3,256,17,,,
+80339917,laptop,Asos,VIVO 20,2022,4297,Intel Core i3,512,12,,,
+51891275,laptop,Apple,MacBook 2,2022,5480,Intel Core i3,2000,10,,,
+67919542,laptop,Asos,VIVO 15,2017,6037,Intel Core i5,1000,10,,,
+69414672,laptop,Lenovo,IdeaPad 6,2019,3797,Intel Core i7,256,24,,,
+82383215,laptop,Apple,MacBook 2,2022,5552,Intel Core i7,512,10,,,
+44035600,laptop,Asos,VIVO 15,2017,5369,Intel Core i3,1000,21,,,
+58006518,laptop,HP,DW 12,2019,1982,Intel Core i3,256,10,,,
+50947949,laptop,Asos,VIVO 15,2017,6756,Intel Core i3,2000,21,,,
+82554971,laptop,Apple,MacBook 1,2021,5379,Intel Core i5,256,24,,,
+71577437,laptop,Apple,MacBook 2,2022,5579,Intel Core i3,512,8,,,
+37751542,laptop,Asos,VIVO 20,2022,4948,Intel Core i5,2000,10,,,
+88878042,laptop,Apple,MacBook 1 Pro,2021,6366,Intel Core i7,1000,12,,,
+39441046,laptop,Lenovo,IdeaPad 5,2018,6307,Intel Core i5,1000,8,,,
+72990796,laptop,Apple,MacBook 1,2021,5003,Intel Core i7,512,10,,,
+85104244,laptop,Lenovo,IdeaPad 8,2021,4110,Intel Core i7,512,24,,,
+63890038,laptop,Apple,MacBook 2 Pro,2022,6386,Intel Core i5,1000,17,,,
+84876803,laptop,Asos,VIVO 18,2020,5012,Intel Core i7,512,10,,,
+48324893,laptop,HP,DW 13,2020,2571,Intel Core i3,1000,19,,,
+48733639,laptop,Asos,VIVO 20,2022,2869,Intel Core i3,512,8,,,
+36052790,laptop,Apple,MacBook 2,2022,5870,Intel Core i5,2000,8,,,
+44474323,laptop,Apple,MacBook 1,2021,5488,Intel Core i7,512,8,,,
+20876859,laptop,Lenovo,IdeaPad 8,2021,4840,Intel Core i7,512,17,,,
+69328569,laptop,Lenovo,IdeaPad 6,2019,4436,Intel Core i7,512,19,,,
+28651475,laptop,Lenovo,IdeaPad 9,2022,3941,Intel Core i5,512,12,,,
+18381325,laptop,Apple,MacBook 2,2022,5643,Intel Core i7,256,19,,,
+59803396,laptop,Lenovo,IdeaPad 7,2020,4903,Intel Core i3,256,12,,,
+60703555,laptop,Lenovo,IdeaPad 8,2021,3786,Intel Core i5,256,10,,,
+88682110,laptop,Lenovo,IdeaPad 9,2022,3671,Intel Core i3,512,17,,,
+40923224,laptop,Lenovo,IdeaPad 7,2020,4761,Intel Core i3,512,21,,,
+76667292,laptop,Lenovo,IdeaPad 9,2022,5183,Intel Core i5,1000,17,,,
+14878868,laptop,Asos,VIVO 17,2019,4191,Intel Core i5,1000,12,,,
+26679604,laptop,Apple,MacBook 1,2021,5668,Intel Core i3,1000,8,,,
+30521754,laptop,Asos,VIVO 15,2017,5601,Intel Core i3,1000,19,,,
+27132521,laptop,HP,DW 10 Pro,2017,7396,Intel Core i3,256,10,,,
+32067962,laptop,Apple,MacBook 1,2021,5461,Intel Core i3,2000,19,,,
+14251197,laptop,HP,DW 15,2022,2409,Intel Core i5,512,24,,,
+30257854,laptop,Apple,MacBook 1,2021,5642,Intel Core i5,256,24,,,
+75116240,laptop,Asos,VIVO 18,2020,5060,Intel Core i5,256,21,,,
+94931995,laptop,Lenovo,IdeaPad 5,2018,8508,Intel Core i5,256,17,,,
+49383613,laptop,Lenovo,IdeaPad 7,2020,4644,Intel Core i5,1000,21,,,
+65674301,laptop,Apple,MacBook 1,2021,5368,Intel Core i7,256,17,,,
+36759869,laptop,Asos,VIVO 20,2022,4286,Intel Core i7,1000,19,,,
+43042991,laptop,Asos,VIVO 18,2020,2563,Intel Core i7,1000,19,,,
+53101042,laptop,Asos,VIVO 18,2020,4788,Intel Core i3,512,21,,,
+94960250,laptop,HP,DW 13,2020,3185,Intel Core i3,256,19,,,
+92719139,laptop,Asos,VIVO 19,2021,4266,Intel Core i3,256,17,,,
+71031137,laptop,Lenovo,IdeaPad 6,2019,4683,Intel Core i7,512,10,,,
+59930305,laptop,Asos,VIVO 18,2020,3305,Intel Core i3,256,19,,,
+57148574,laptop,Asos,VIVO 16 Pro,2018,8120,Intel Core i5,2000,24,,,
+92594863,laptop,Lenovo,IdeaPad 7,2020,4923,Intel Core i7,256,21,,,
+42021939,laptop,Asos,VIVO 15,2017,6196,Intel Core i3,1000,24,,,
+97211001,laptop,Apple,MacBook 2 Pro,2022,5929,Intel Core i3,1000,21,,,
+20246726,laptop,Asos,VIVO 17,2019,4811,Intel Core i7,2000,24,,,
+78431040,laptop,Apple,MacBook 2,2022,5734,Intel Core i7,2000,24,,,
+47924952,laptop,Asos,VIVO 20,2022,4987,Intel Core i5,256,24,,,
+99660861,laptop,Asos,VIVO 18 Pro,2020,3593,Intel Core i7,2000,17,,,
+38050301,laptop,Lenovo,IdeaPad 9 Pro,2022,5731,Intel Core i3,256,21,,,
+82883850,laptop,Lenovo,IdeaPad 7,2020,4840,Intel Core i3,512,24,,,
+28322821,laptop,Asos,VIVO 18,2020,4685,Intel Core i5,512,17,,,
+58132397,laptop,Apple,MacBook 2,2022,5541,Intel Core i5,2000,17,,,
+12070260,laptop,HP,DW 14,2021,3369,Intel Core i5,1000,8,,,
+95570529,laptop,Lenovo,IdeaPad 9,2022,5150,Intel Core i5,512,12,,,
+15376741,laptop,HP,DW 12,2019,2655,Intel Core i3,1000,8,,,
+78581898,laptop,HP,DW 13,2020,3206,Intel Core i5,1000,21,,,
+25093852,laptop,Lenovo,IdeaPad 9,2022,5098,Intel Core i7,2000,24,,,
+72187277,laptop,Apple,MacBook 1,2021,5852,Intel Core i3,2000,8,,,
+25411199,laptop,Asos,VIVO 17,2019,3963,Intel Core i7,512,12,,,
+43042446,laptop,Asos,VIVO 20,2022,3627,Intel Core i7,256,17,,,
+73411283,laptop,Asos,VIVO 15,2017,5195,Intel Core i5,2000,12,,,
+90750583,laptop,Apple,MacBook 2,2022,5251,Intel Core i5,512,8,,,
+72716469,laptop,HP,DW 14 Pro,2021,3353,Intel Core i3,512,24,,,
+79831070,laptop,Apple,MacBook 2,2022,5917,Intel Core i5,2000,24,,,
+36872358,laptop,Asos,VIVO 20,2022,4878,Intel Core i3,256,24,,,
+70489305,laptop,Apple,MacBook 1 Pro,2021,6376,Intel Core i5,256,19,,,
+76672818,laptop,Apple,MacBook 2,2022,5614,Intel Core i7,1000,21,,,
+74097425,laptop,Apple,MacBook 2,2022,5772,Intel Core i3,2000,19,,,
+25230127,laptop,Asos,VIVO 19,2021,2665,Intel Core i7,512,10,,,
+18802902,laptop,Asos,VIVO 18,2020,4704,Intel Core i3,512,12,,,
+40332156,laptop,Asos,VIVO 18,2020,5001,Intel Core i5,256,10,,,
+67472103,laptop,Apple,MacBook 2 Pro,2022,6371,Intel Core i7,256,19,,,
+93908748,laptop,Asos,VIVO 19,2021,3798,Intel Core i3,512,17,,,
+23263014,laptop,HP,DW 13,2020,4359,Intel Core i5,2000,17,,,
+77458670,laptop,Lenovo,IdeaPad 8,2021,5030,Intel Core i7,256,10,,,
+50365862,laptop,Apple,MacBook 2 Pro,2022,5861,Intel Core i7,512,19,,,
+21816641,laptop,HP,DW 13,2020,3961,Intel Core i3,2000,19,,,
+76385446,laptop,Lenovo,IdeaPad 6,2019,4642,Intel Core i3,2000,24,,,
+65037477,laptop,Lenovo,IdeaPad 8,2021,4489,Intel Core i3,256,19,,,
+65679266,laptop,HP,DW 12 Pro,2019,2042,Intel Core i7,512,19,,,
+81815402,laptop,Lenovo,IdeaPad 6,2019,5351,Intel Core i7,2000,12,,,
+54811272,laptop,HP,DW 15,2022,4174,Intel Core i5,1000,8,,,
+13271277,laptop,Apple,MacBook 1,2021,5193,Intel Core i7,512,21,,,
+29512224,laptop,HP,DW 11,2018,6258,Intel Core i3,256,21,,,
+50336897,laptop,Apple,MacBook 1,2021,5168,Intel Core i7,2000,8,,,
+29663505,laptop,Lenovo,IdeaPad 9,2022,4537,Intel Core i5,512,21,,,
+60823909,laptop,Lenovo,IdeaPad 8,2021,4504,Intel Core i5,1000,24,,,
+16184222,laptop,Apple,MacBook 1,2021,5211,Intel Core i3,512,8,,,
+11626416,laptop,Apple,MacBook 1 Pro,2021,5825,Intel Core i5,512,8,,,
+18142495,laptop,Asos,VIVO 16,2018,7592,Intel Core i7,2000,24,,,
+49679979,laptop,Lenovo,IdeaPad 6,2019,5055,Intel Core i3,512,17,,,
+73694842,laptop,HP,DW 11,2018,5965,Intel Core i7,1000,17,,,
+36533811,laptop,HP,DW 14 Pro,2021,2364,Intel Core i7,512,24,,,
+52326615,laptop,Lenovo,IdeaPad 9,2022,3593,Intel Core i5,512,24,,,
+91202109,laptop,HP,DW 14,2021,3053,Intel Core i5,2000,24,,,
+19965989,laptop,Asos,VIVO 17 Pro,2019,4615,Intel Core i3,512,12,,,
+87583019,laptop,Apple,MacBook 2,2022,5210,Intel Core i3,1000,24,,,
+88102144,laptop,Lenovo,IdeaPad 5,2018,5928,Intel Core i3,2000,12,,,
+44419387,laptop,Asos,VIVO 20,2022,2569,Intel Core i3,2000,10,,,
+43748334,laptop,HP,DW 12,2019,2717,Intel Core i7,2000,24,,,
+23239109,laptop,HP,DW 12,2019,4312,Intel Core i5,256,21,,,
+20918716,laptop,HP,DW 12,2019,2090,Intel Core i7,256,8,,,
+34556386,laptop,HP,DW 15,2022,4409,Intel Core i5,1000,21,,,
+65914337,laptop,Lenovo,IdeaPad 9,2022,5030,Intel Core i7,512,19,,,
+76311477,laptop,Apple,MacBook 1,2021,5067,Intel Core i3,512,17,,,
+22308960,laptop,Lenovo,IdeaPad 8,2021,4147,Intel Core i3,512,8,,,
+85531340,laptop,Lenovo,IdeaPad 5 Pro,2018,6509,Intel Core i5,512,12,,,
+17737677,laptop,HP,DW 15,2022,3027,Intel Core i7,1000,17,,,
+18805382,laptop,Apple,MacBook 2,2022,5227,Intel Core i7,1000,19,,,
+95607340,laptop,Apple,MacBook 1 Pro,2021,5511,Intel Core i7,2000,10,,,
+40180425,laptop,Lenovo,IdeaPad 5,2018,7924,Intel Core i7,512,19,,,
+63381194,laptop,HP,DW 14,2021,3443,Intel Core i5,1000,10,,,
+30370302,laptop,HP,DW 13 Pro,2020,3340,Intel Core i5,512,21,,,
+11086917,laptop,Lenovo,IdeaPad 8,2021,3786,Intel Core i7,2000,17,,,
+31353831,laptop,Asos,VIVO 15,2017,5655,Intel Core i3,2000,10,,,
+38336430,laptop,HP,DW 12,2019,4369,Intel Core i7,512,21,,,
+33045154,laptop,Asos,VIVO 16,2018,6336,Intel Core i3,256,19,,,
+90913954,laptop,Apple,MacBook 2,2022,5992,Intel Core i5,2000,12,,,
+78641496,laptop,Apple,MacBook 1,2021,5443,Intel Core i3,2000,19,,,
+49080609,laptop,Asos,VIVO 18 Pro,2020,3909,Intel Core i7,256,8,,,
+37033782,laptop,Lenovo,IdeaPad 7,2020,4436,Intel Core i7,512,19,,,
+25537763,laptop,Lenovo,IdeaPad 6,2019,4460,Intel Core i3,2000,19,,,
+71668859,laptop,Asos,VIVO 16,2018,5503,Intel Core i3,512,17,,,
+95829610,laptop,Lenovo,IdeaPad 8 Pro,2021,5254,Intel Core i5,2000,19,,,
+84185129,laptop,Asos,VIVO 17,2019,2990,Intel Core i3,1000,12,,,
+93163446,laptop,Apple,MacBook 2,2022,5341,Intel Core i3,512,10,,,
+17917624,laptop,Lenovo,IdeaPad 9,2022,5392,Intel Core i5,512,24,,,
+47923869,laptop,Lenovo,IdeaPad 5,2018,6609,Intel Core i7,2000,19,,,
+20521994,laptop,Apple,MacBook 1,2021,5100,Intel Core i5,512,19,,,
+49414666,laptop,HP,DW 14,2021,3860,Intel Core i5,512,10,,,
+70974646,laptop,Asos,VIVO 16 Pro,2018,7357,Intel Core i7,2000,12,,,
+91306615,laptop,Lenovo,IdeaPad 7,2020,5257,Intel Core i7,2000,8,,,
+68204032,laptop,Apple,MacBook 1 Pro,2021,6307,Intel Core i5,256,24,,,
+81466570,laptop,Asos,VIVO 16,2018,5957,Intel Core i7,256,12,,,
+24425824,laptop,Apple,MacBook 2,2022,5004,Intel Core i3,2000,12,,,
+20631069,laptop,HP,DW 10,2017,5007,Intel Core i3,256,12,,,
+14056114,laptop,Lenovo,IdeaPad 9,2022,3891,Intel Core i5,512,12,,,
+84681777,laptop,Asos,VIVO 19,2021,4413,Intel Core i3,256,24,,,
+56235133,laptop,HP,DW 15,2022,2128,Intel Core i7,1000,10,,,
+11501813,laptop,Asos,VIVO 20,2022,3576,Intel Core i5,256,17,,,
+45767916,laptop,Lenovo,IdeaPad 6,2019,4031,Intel Core i7,256,10,,,
+73914400,laptop,Asos,VIVO 18,2020,4309,Intel Core i3,2000,12,,,
+69899419,laptop,Asos,VIVO 16,2018,8085,Intel Core i7,1000,12,,,
+40834455,laptop,Asos,VIVO 18,2020,4892,Intel Core i7,256,12,,,
+64434293,laptop,Asos,VIVO 18,2020,3039,Intel Core i5,256,19,,,
+92783847,laptop,Asos,VIVO 20,2022,3322,Intel Core i7,1000,19,,,
+16188214,laptop,Lenovo,IdeaPad 7,2020,5183,Intel Core i5,256,8,,,
+46813537,laptop,HP,DW 10,2017,5301,Intel Core i5,1000,12,,,
+67661826,laptop,Asos,VIVO 17,2019,4334,Intel Core i7,256,8,,,
+33541631,laptop,HP,DW 15 Pro,2022,3596,Intel Core i5,2000,10,,,
+48227977,laptop,Lenovo,IdeaPad 9,2022,4918,Intel Core i3,2000,12,,,
+48953287,laptop,HP,DW 15,2022,3540,Intel Core i7,512,12,,,
+33621229,laptop,Asos,VIVO 20 Pro,2022,4601,Intel Core i3,2000,10,,,
+25699268,laptop,HP,DW 10 Pro,2017,6237,Intel Core i7,2000,12,,,
+20679235,laptop,HP,DW 10,2017,7011,Intel Core i5,512,8,,,
+28918692,laptop,Lenovo,IdeaPad 7,2020,5112,Intel Core i3,512,10,,,
+31917685,laptop,Apple,MacBook 2,2022,5252,Intel Core i3,512,12,,,
+25837615,laptop,Asos,VIVO 18 Pro,2020,3057,Intel Core i3,256,8,,,
+13601345,laptop,HP,DW 10,2017,6060,Intel Core i7,2000,12,,,
+53439724,laptop,HP,DW 10,2017,4834,Intel Core i3,512,21,,,
+26795317,laptop,Lenovo,IdeaPad 5,2018,7111,Intel Core i3,1000,19,,,
+43374055,laptop,Asos,VIVO 19,2021,3143,Intel Core i7,1000,24,,,
+11656007,laptop,Lenovo,IdeaPad 6,2019,3643,Intel Core i5,256,17,,,
+11206727,laptop,Lenovo,IdeaPad 6,2019,5363,Intel Core i3,2000,21,,,
+11121362,laptop,Asos,VIVO 17 Pro,2019,3457,Intel Core i5,2000,21,,,
+65475652,laptop,Asos,VIVO 20,2022,4830,Intel Core i3,512,21,,,
+67293784,laptop,Asos,VIVO 15,2017,7861,Intel Core i5,512,24,,,
+22671367,laptop,HP,DW 13,2020,3469,Intel Core i5,256,19,,,
+32041774,laptop,Lenovo,IdeaPad 9,2022,5354,Intel Core i7,256,12,,,
+15383009,laptop,Asos,VIVO 17,2019,3389,Intel Core i3,2000,17,,,
+68375502,laptop,HP,DW 15,2022,3469,Intel Core i5,256,24,,,
+46588654,laptop,Lenovo,IdeaPad 6,2019,4830,Intel Core i7,1000,19,,,
+41450387,laptop,Lenovo,IdeaPad 8,2021,3972,Intel Core i7,1000,24,,,
+69366289,laptop,Apple,MacBook 1 Pro,2021,6301,Intel Core i5,512,24,,,
+94544534,laptop,Apple,MacBook 1,2021,5131,Intel Core i5,2000,24,,,
+84279663,laptop,Asos,VIVO 16,2018,6080,Intel Core i5,1000,10,,,
+16004168,laptop,HP,DW 13,2020,4284,Intel Core i3,2000,17,,,
+86893433,laptop,Apple,MacBook 2,2022,5158,Intel Core i7,2000,10,,,
+31850880,laptop,Asos,VIVO 17,2019,3584,Intel Core i7,2000,10,,,
+70922926,laptop,HP,DW 15,2022,2179,Intel Core i3,2000,8,,,
+89196033,laptop,Lenovo,IdeaPad 7 Pro,2020,4791,Intel Core i7,1000,8,,,
+43159346,smartphone,Google,Pixel 2,2017,3375,,,,3G,2,8
+30056899,smartphone,Google,Pixel 2,2017,3779,,,,4G,4,1
+83658207,smartphone,Xiaomi,Redmi A8,2021,764,,,,3G,4,1
+84561836,smartphone,Xiaomi,Redmi A7 Pro,2020,1973,,,,3G,2,4
+48124955,smartphone,Apple,IPhone 14,2022,2668,,,,3G,12,8
+75165812,smartphone,Samsung,Galaxy S17,2017,4867,,,,3G,12,64
+88360541,smartphone,Google,Pixel 4,2019,1898,,,,3G,4,64
+37492253,smartphone,Apple,IPhone 10,2018,5156,,,,3G,12,2
+98302925,smartphone,Apple,IPhone 9,2017,4908,,,,4G,12,2
+37219891,smartphone,Xiaomi,Redmi A5,2018,2346,,,,5G,10,16
+79097541,smartphone,Xiaomi,Redmi A8,2021,592,,,,3G,2,4
+74520314,smartphone,Apple,IPhone 12,2020,2679,,,,4G,8,4
+74731233,smartphone,Samsung,Galaxy S14,2014,4275,,,,3G,1,2
+84089278,smartphone,Xiaomi,Redmi A7,2020,580,,,,3G,2,64
+23608649,smartphone,Google,Pixel 2,2017,3401,,,,4G,1,64
+92947349,smartphone,Apple,IPhone 10,2018,3989,,,,4G,2,64
+74371554,smartphone,Google,Pixel 5,2020,2243,,,,5G,4,1
+47825012,smartphone,Apple,IPhone 14,2022,2502,,,,4G,12,128
+96171228,smartphone,Google,Pixel 6,2021,2209,,,,4G,2,2
+41205578,smartphone,Samsung,Galaxy S18,2018,4083,,,,4G,16,8
+28392569,smartphone,Apple,IPhone 10,2018,4053,,,,5G,12,4
+50329929,smartphone,Apple,IPhone 14,2022,3281,,,,3G,8,4
+68053873,smartphone,Xiaomi,Redmi A5,2018,2764,,,,4G,2,1
+18862036,smartphone,Google,Pixel 2,2017,3881,,,,4G,16,1
+55665218,smartphone,Google,Pixel 1,2016,4058,,,,5G,12,2
+98181821,smartphone,Xiaomi,Redmi A7,2020,788,,,,3G,16,4
+93398290,smartphone,Xiaomi,Redmi A6 Pro,2019,1153,,,,4G,16,1
+60868007,smartphone,Xiaomi,Redmi A5,2018,2085,,,,3G,1,4
+58117344,smartphone,Google,Pixel 2,2017,3111,,,,3G,16,1
+74195034,smartphone,Apple,IPhone 9,2017,3540,,,,3G,1,2
+64642725,smartphone,Apple,IPhone 10,2018,4455,,,,5G,8,2
+74265211,smartphone,Xiaomi,Redmi A6,2019,582,,,,4G,1,1
+63077152,smartphone,Apple,IPhone 8,2016,4432,,,,5G,10,4
+96495525,smartphone,Apple,IPhone 8,2016,5344,,,,4G,2,2
+60555722,smartphone,Xiaomi,Redmi A7,2020,541,,,,4G,10,32
+43588287,smartphone,Apple,IPhone 12,2020,2932,,,,3G,4,32
+71497876,smartphone,Samsung,Galaxy S15,2015,3773,,,,4G,16,32
+46749127,smartphone,Apple,IPhone 12 Pro,2020,3748,,,,5G,16,128
+70956770,smartphone,Xiaomi,Redmi A5,2018,2856,,,,5G,12,32
+92205124,smartphone,Apple,IPhone 10,2018,4712,,,,5G,16,4
+27153099,smartphone,Xiaomi,Redmi A5,2018,2384,,,,3G,16,16
+99394081,smartphone,Google,Pixel 2,2017,4395,,,,3G,4,128
+13927195,smartphone,Samsung,Galaxy S22 Pro,2022,3113,,,,5G,16,32
+58840690,smartphone,Apple,IPhone 11,2019,2646,,,,5G,2,8
+47544219,smartphone,Apple,IPhone 10,2018,3362,,,,3G,1,64
+14782900,smartphone,Samsung,Galaxy S17,2017,3623,,,,4G,10,1
+36258696,smartphone,Apple,IPhone 12 Pro,2020,3478,,,,3G,12,64
+38359325,smartphone,Xiaomi,Redmi A8,2021,1306,,,,5G,4,4
+55216065,smartphone,Apple,IPhone 9 Pro,2017,5945,,,,5G,4,32
+61865305,smartphone,Google,Pixel 3,2018,3737,,,,5G,16,2
+65916604,smartphone,Samsung,Galaxy S13,2013,3577,,,,3G,4,16
+92726696,smartphone,Google,Pixel 1 Pro,2016,4369,,,,3G,12,4
+45031585,smartphone,Samsung,Galaxy S20,2020,1306,,,,5G,16,4
+96428418,smartphone,Samsung,Galaxy S18,2018,4024,,,,3G,10,128
+17483544,smartphone,Xiaomi,Redmi A5,2018,1837,,,,5G,1,4
+49749337,smartphone,Samsung,Galaxy S13,2013,3365,,,,3G,4,8
+87489318,smartphone,Samsung,Galaxy S15,2015,4680,,,,5G,16,4
+55504291,smartphone,Xiaomi,Redmi A8,2021,826,,,,5G,16,16
+32296640,smartphone,Xiaomi,Redmi A9,2022,836,,,,4G,4,16
+21411801,smartphone,Google,Pixel 5,2020,1744,,,,3G,2,8
+83096356,smartphone,Samsung,Galaxy S22,2022,1136,,,,4G,8,64
+62974530,smartphone,Apple,IPhone 14,2022,2707,,,,4G,4,4
+89131296,smartphone,Samsung,Galaxy S19,2019,1234,,,,3G,8,16
+56684059,smartphone,Google,Pixel 2,2017,3909,,,,3G,12,4
+97242045,smartphone,Xiaomi,Redmi A6,2019,1732,,,,3G,10,4
+30512771,smartphone,Samsung,Galaxy S15,2015,4349,,,,4G,12,32
+92138722,smartphone,Samsung,Galaxy S22,2022,2596,,,,4G,12,8
+13105772,smartphone,Google,Pixel 4,2019,2034,,,,4G,16,1
+30317361,smartphone,Samsung,Galaxy S20,2020,1873,,,,3G,4,32
+92022237,smartphone,Google,Pixel 5,2020,2112,,,,4G,8,8
+64804737,smartphone,Samsung,Galaxy S19,2019,2963,,,,3G,12,16
+29174586,smartphone,Google,Pixel 6,2021,2222,,,,4G,16,16
+48634031,smartphone,Apple,IPhone 9,2017,5043,,,,5G,10,128
+99757192,smartphone,Samsung,Galaxy S22,2022,1049,,,,3G,16,64
+17080039,smartphone,Samsung,Galaxy S16,2016,4584,,,,3G,12,1
+85393005,smartphone,Google,Pixel 6,2021,1642,,,,5G,1,1
+94861004,smartphone,Google,Pixel 7 Pro,2022,2733,,,,4G,10,16
+74319114,smartphone,Google,Pixel 5 Pro,2020,2532,,,,5G,10,64
+27070828,smartphone,Apple,IPhone 14 Pro,2022,3509,,,,4G,12,4
+48733927,smartphone,Samsung,Galaxy S22,2022,1972,,,,5G,8,2
+19052158,smartphone,Google,Pixel 7,2022,2219,,,,4G,4,64
+88220886,smartphone,Xiaomi,Redmi A7,2020,1651,,,,4G,10,16
+35942589,smartphone,Google,Pixel 2,2017,3829,,,,4G,4,2
+63452652,smartphone,Google,Pixel 2 Pro,2017,4114,,,,5G,10,1
+79805721,smartphone,Xiaomi,Redmi A9,2022,1321,,,,5G,12,1
+23242124,smartphone,Xiaomi,Redmi A9 Pro,2022,2075,,,,5G,2,32
+81686962,smartphone,Samsung,Galaxy S18,2018,3217,,,,3G,4,2
+80356917,smartphone,Apple,IPhone 12,2020,2572,,,,5G,16,8
+69595412,smartphone,Apple,IPhone 11,2019,3238,,,,4G,1,64
+42343559,smartphone,Xiaomi,Redmi A9 Pro,2022,1583,,,,4G,8,128
+76058307,smartphone,Xiaomi,Redmi A9,2022,640,,,,5G,12,8
+41207945,smartphone,Xiaomi,Redmi A5,2018,2703,,,,4G,4,1
+49488392,smartphone,Apple,IPhone 12,2020,3070,,,,4G,16,64
+84003410,smartphone,Samsung,Galaxy S13 Pro,2013,4207,,,,4G,16,64
+90335773,smartphone,Google,Pixel 1,2016,3353,,,,4G,4,16
+50877147,smartphone,Apple,IPhone 10,2018,5273,,,,3G,10,32
+17748529,smartphone,Apple,IPhone 9,2017,3601,,,,4G,1,2
+20576917,smartphone,Samsung,Galaxy S15,2015,4125,,,,5G,10,64
+57125195,smartphone,Samsung,Galaxy S17,2017,3028,,,,4G,1,32
+23354134,smartphone,Apple,IPhone 8,2016,4746,,,,3G,16,128
+34852275,smartphone,Apple,IPhone 13,2021,2878,,,,4G,4,64
+18471588,smartphone,Google,Pixel 1,2016,4229,,,,3G,8,4
+35773032,smartphone,Google,Pixel 5,2020,2228,,,,5G,4,4
+97175824,smartphone,Xiaomi,Redmi A8,2021,1698,,,,4G,2,16
+90873798,smartphone,Samsung,Galaxy S20,2020,1187,,,,5G,16,64
+42515453,smartphone,Xiaomi,Redmi A9,2022,981,,,,4G,1,1
+26249978,smartphone,Xiaomi,Redmi A6,2019,1005,,,,5G,1,4
+52770277,smartphone,Google,Pixel 2,2017,4054,,,,5G,4,32
+33155130,smartphone,Apple,IPhone 9,2017,4989,,,,5G,8,16
+16963038,smartphone,Apple,IPhone 10,2018,3744,,,,5G,10,8
+21767160,smartphone,Samsung,Galaxy S21,2021,1768,,,,3G,16,1
+13445161,smartphone,Xiaomi,Redmi A8,2021,1177,,,,3G,12,32
+87628687,smartphone,Apple,IPhone 14,2022,3211,,,,3G,2,8
+79636495,smartphone,Google,Pixel 6,2021,2009,,,,4G,10,16
+30118404,smartphone,Xiaomi,Redmi A6,2019,974,,,,3G,2,4
+34618872,smartphone,Google,Pixel 5,2020,2565,,,,4G,8,32
+97574276,smartphone,Xiaomi,Redmi A6 Pro,2019,1579,,,,4G,2,32
+87800502,smartphone,Xiaomi,Redmi A8,2021,580,,,,3G,1,1
+17406280,smartphone,Xiaomi,Redmi A5,2018,2208,,,,4G,10,2
+26646608,smartphone,Google,Pixel 3,2018,2705,,,,3G,16,64
+74101338,smartphone,Google,Pixel 3,2018,4119,,,,5G,10,2
+69922544,smartphone,Samsung,Galaxy S21,2021,847,,,,4G,2,4
+83968102,smartphone,Samsung,Galaxy S18 Pro,2018,5122,,,,3G,2,2
+31036355,smartphone,Xiaomi,Redmi A5,2018,2763,,,,3G,4,32
+60763295,smartphone,Samsung,Galaxy S14 Pro,2014,5363,,,,3G,4,8
+52160007,smartphone,Xiaomi,Redmi A6,2019,1757,,,,5G,1,16
+39526040,smartphone,Apple,IPhone 12,2020,3083,,,,5G,4,1
+93522461,smartphone,Apple,IPhone 13,2021,3204,,,,3G,1,2
+65887359,smartphone,Apple,IPhone 11,2019,3127,,,,4G,12,8
+76930720,smartphone,Apple,IPhone 9,2017,4247,,,,3G,4,8
+31967904,smartphone,Apple,IPhone 10,2018,4255,,,,5G,12,2
+24032083,smartphone,Xiaomi,Redmi A6,2019,744,,,,4G,4,16
+61410094,smartphone,Google,Pixel 2,2017,3606,,,,3G,8,128
+81346981,smartphone,Xiaomi,Redmi A8 Pro,2021,1542,,,,3G,2,4
+89054118,smartphone,Google,Pixel 4,2019,1647,,,,3G,8,8
+61847780,smartphone,Xiaomi,Redmi A9,2022,987,,,,3G,10,2
+92679582,smartphone,Google,Pixel 7,2022,2147,,,,4G,12,128
+36387430,smartphone,Apple,IPhone 8,2016,4486,,,,5G,16,8
+40132462,smartphone,Samsung,Galaxy S21 Pro,2021,2247,,,,4G,4,64
+87447635,smartphone,Xiaomi,Redmi A8 Pro,2021,2289,,,,4G,10,128
+65995739,smartphone,Xiaomi,Redmi A9,2022,1014,,,,5G,8,8
+37280888,smartphone,Samsung,Galaxy S17,2017,4541,,,,3G,4,128
+16352380,smartphone,Apple,IPhone 10,2018,4807,,,,3G,2,32
+24892324,smartphone,Apple,IPhone 13,2021,2898,,,,3G,10,2
+67734327,smartphone,Apple,IPhone 8,2016,5372,,,,4G,2,4
+41774299,smartphone,Xiaomi,Redmi A9,2022,1305,,,,3G,12,4
+84348659,smartphone,Samsung,Galaxy S19,2019,2175,,,,3G,1,4
+22211827,smartphone,Google,Pixel 2,2017,3517,,,,4G,8,64
+42748095,smartphone,Xiaomi,Redmi A8,2021,925,,,,3G,2,128
+41687836,smartphone,Apple,IPhone 12,2020,3228,,,,4G,1,16
+73971254,smartphone,Samsung,Galaxy S19 Pro,2019,3002,,,,5G,16,2
+98460162,smartphone,Google,Pixel 4,2019,2624,,,,5G,12,8
+10337872,smartphone,Samsung,Galaxy S15,2015,4539,,,,3G,16,16
+76085582,smartphone,Samsung,Galaxy S22,2022,1955,,,,5G,16,32
+90777444,smartphone,Xiaomi,Redmi A7 Pro,2020,1801,,,,3G,1,2
+25879693,smartphone,Apple,IPhone 10,2018,5388,,,,4G,8,4
+79348507,smartphone,Apple,IPhone 11,2019,2855,,,,5G,1,32
+88321233,smartphone,Google,Pixel 7,2022,1688,,,,5G,8,8
+21633489,smartphone,Samsung,Galaxy S22,2022,2994,,,,3G,4,2
+47376978,smartphone,Apple,IPhone 12 Pro,2020,3455,,,,5G,2,2
+51363367,smartphone,Apple,IPhone 13,2021,2682,,,,3G,10,4
+82496544,smartphone,Xiaomi,Redmi A9,2022,1729,,,,5G,2,16
+23019571,smartphone,Samsung,Galaxy S21 Pro,2021,1699,,,,3G,16,4
+89376340,smartphone,Google,Pixel 4,2019,2143,,,,4G,4,32
+29329474,smartphone,Google,Pixel 3,2018,3387,,,,3G,10,128
+79405193,smartphone,Samsung,Galaxy S14,2014,3145,,,,3G,8,8
+12879219,smartphone,Samsung,Galaxy S17 Pro,2017,5321,,,,4G,1,2
+62104204,smartphone,Xiaomi,Redmi A9,2022,840,,,,5G,12,32
+31525011,smartphone,Xiaomi,Redmi A8,2021,1015,,,,3G,2,4
+32943044,smartphone,Google,Pixel 4 Pro,2019,2302,,,,3G,2,32
+15978508,smartphone,Apple,IPhone 13 Pro,2021,3729,,,,3G,8,8
+66925324,smartphone,Apple,IPhone 12,2020,2819,,,,4G,2,2
+26211483,smartphone,Xiaomi,Redmi A8,2021,1616,,,,3G,2,32
+51074002,smartphone,Apple,IPhone 11,2019,2969,,,,5G,2,32
+93066380,smartphone,Samsung,Galaxy S19 Pro,2019,2337,,,,3G,12,4
+15791181,smartphone,Apple,IPhone 9,2017,5381,,,,3G,4,128
+77053932,smartphone,Xiaomi,Redmi A7,2020,613,,,,5G,10,1
+44606919,smartphone,Google,Pixel 3,2018,3357,,,,3G,1,32
+40158432,smartphone,Apple,IPhone 9,2017,4449,,,,5G,12,16
+58024446,smartphone,Xiaomi,Redmi A7,2020,621,,,,3G,4,2
+41733817,smartphone,Samsung,Galaxy S20,2020,1805,,,,5G,8,8
+89049923,smartphone,Apple,IPhone 14 Pro,2022,3400,,,,5G,10,128
+63965618,smartphone,Samsung,Galaxy S15,2015,3112,,,,5G,2,16
+32078552,smartphone,Google,Pixel 7,2022,2251,,,,5G,10,64
+81261991,smartphone,Samsung,Galaxy S15,2015,4423,,,,5G,4,4
+47713870,smartphone,Samsung,Galaxy S21,2021,1475,,,,5G,16,2
+90558761,smartphone,Xiaomi,Redmi A9,2022,836,,,,3G,10,8
+93426521,smartphone,Xiaomi,Redmi A9,2022,1239,,,,4G,2,16
+60298065,smartphone,Apple,IPhone 14,2022,2953,,,,4G,8,8
+34977525,smartphone,Apple,IPhone 8,2016,3526,,,,3G,12,1
+19454903,smartphone,Google,Pixel 3,2018,3574,,,,3G,1,64
+79665362,smartphone,Google,Pixel 1,2016,3028,,,,3G,16,1
+86866711,smartphone,Samsung,Galaxy S18,2018,4251,,,,3G,8,16
+85717249,smartphone,Samsung,Galaxy S16,2016,3329,,,,3G,10,32
+36926181,smartphone,Samsung,Galaxy S17,2017,4073,,,,4G,10,4
+84334297,smartphone,Xiaomi,Redmi A5,2018,2489,,,,3G,10,64
+50453655,smartphone,Google,Pixel 1,2016,3439,,,,5G,1,32
+99971133,smartphone,Samsung,Galaxy S21 Pro,2021,1779,,,,3G,10,4
+71811255,smartphone,Samsung,Galaxy S22,2022,2878,,,,3G,12,32
+70249933,smartphone,Xiaomi,Redmi A5,2018,2897,,,,3G,4,8
+47339032,smartphone,Samsung,Galaxy S17,2017,4439,,,,4G,4,1
+64143527,smartphone,Apple,IPhone 12,2020,2529,,,,3G,8,32
+51957464,smartphone,Google,Pixel 2 Pro,2017,4278,,,,5G,10,1
+25258851,smartphone,Xiaomi,Redmi A8 Pro,2021,1916,,,,4G,4,2
+48766049,smartphone,Google,Pixel 4,2019,1750,,,,5G,12,2
+83089330,smartphone,Google,Pixel 4,2019,1798,,,,5G,4,1
+21789916,smartphone,Samsung,Galaxy S19,2019,2290,,,,4G,10,16
+14269412,smartphone,Xiaomi,Redmi A5,2018,2715,,,,3G,12,16
+61423233,smartphone,Apple,IPhone 12,2020,3212,,,,5G,16,64
+33928682,smartphone,Xiaomi,Redmi A5 Pro,2018,3137,,,,5G,4,16
+51351474,smartphone,Samsung,Galaxy S15,2015,3062,,,,3G,10,32
+18628659,smartphone,Xiaomi,Redmi A6,2019,1029,,,,4G,10,64
+12861979,smartphone,Google,Pixel 4,2019,1833,,,,5G,1,16
+66858987,smartphone,Apple,IPhone 13,2021,2725,,,,4G,8,8
+23475689,smartphone,Xiaomi,Redmi A5,2018,2922,,,,4G,2,128
+29586500,smartphone,Samsung,Galaxy S17,2017,4605,,,,5G,10,1
+19049681,smartphone,Samsung,Galaxy S14 Pro,2014,4443,,,,3G,16,32
+11512781,smartphone,Samsung,Galaxy S18,2018,3649,,,,5G,8,128
+52790707,smartphone,Xiaomi,Redmi A7 Pro,2020,1506,,,,5G,10,4
+87904967,smartphone,Apple,IPhone 10,2018,4732,,,,4G,8,4
+89318046,smartphone,Google,Pixel 1,2016,2897,,,,3G,8,8
+78263451,smartphone,Samsung,Galaxy S13,2013,4220,,,,3G,4,16
+33898701,smartphone,Samsung,Galaxy S15,2015,3718,,,,3G,2,16
+10324759,smartphone,Apple,IPhone 9,2017,3990,,,,3G,16,2
+27504615,smartphone,Google,Pixel 1,2016,4146,,,,4G,10,8
+95219077,smartphone,Apple,IPhone 11,2019,2733,,,,3G,1,2
+62804246,smartphone,Samsung,Galaxy S21,2021,2695,,,,4G,8,8
+28084015,smartphone,Google,Pixel 4,2019,2577,,,,4G,12,16
+98523195,smartphone,Apple,IPhone 13,2021,2741,,,,4G,12,32
+80773325,smartphone,Xiaomi,Redmi A9,2022,1300,,,,4G,16,64
+96007844,smartphone,Apple,IPhone 10,2018,4758,,,,4G,4,2
+25812776,smartphone,Apple,IPhone 13,2021,2800,,,,5G,12,32
+89162526,smartphone,Apple,IPhone 10 Pro,2018,5320,,,,5G,2,8
+57737444,smartphone,Apple,IPhone 10,2018,4313,,,,3G,10,32
+58247523,smartphone,Apple,IPhone 11,2019,3266,,,,4G,12,32
+65981503,smartphone,Xiaomi,Redmi A8,2021,1352,,,,5G,1,128
+71067797,smartphone,Samsung,Galaxy S15,2015,4782,,,,4G,2,64
+49526799,smartphone,Samsung,Galaxy S19,2019,1048,,,,5G,4,128
+63953394,smartphone,Xiaomi,Redmi A8,2021,1250,,,,3G,8,2
+99128185,smartphone,Xiaomi,Redmi A7,2020,629,,,,5G,16,1
+21401933,smartphone,Google,Pixel 6,2021,1983,,,,3G,16,32
+45125787,smartphone,Xiaomi,Redmi A6 Pro,2019,2152,,,,3G,16,4
+97264712,smartphone,Xiaomi,Redmi A6,2019,713,,,,4G,2,64
+13130884,smartphone,Xiaomi,Redmi A7,2020,872,,,,5G,10,8
+50071424,smartphone,Xiaomi,Redmi A9,2022,1601,,,,3G,2,8
+60945623,smartphone,Google,Pixel 2,2017,3670,,,,4G,10,4
+20990949,smartphone,Google,Pixel 5,2020,1646,,,,5G,16,8
+62903906,smartphone,Apple,IPhone 13,2021,2942,,,,3G,1,64
+83668451,smartphone,Samsung,Galaxy S16,2016,4303,,,,5G,16,8
+75318900,smartphone,Samsung,Galaxy S19,2019,1507,,,,3G,1,8
+54074646,smartphone,Xiaomi,Redmi A8,2021,1034,,,,4G,2,8
+21392589,smartphone,Google,Pixel 6,2021,2016,,,,4G,1,64
+29009836,smartphone,Apple,IPhone 12,2020,2549,,,,5G,12,8
+30631057,smartphone,Google,Pixel 2,2017,3687,,,,4G,10,1
+49411056,smartphone,Apple,IPhone 12,2020,2700,,,,4G,4,64
+18640124,smartphone,Xiaomi,Redmi A7,2020,1576,,,,3G,10,32
+62148541,smartphone,Xiaomi,Redmi A9,2022,1316,,,,4G,8,16
+83062247,smartphone,Google,Pixel 5,2020,2138,,,,3G,12,1
+19896236,smartphone,Samsung,Galaxy S18,2018,4166,,,,3G,4,32
+50866731,smartphone,Samsung,Galaxy S21,2021,1725,,,,4G,4,4
+86630244,smartphone,Samsung,Galaxy S22 Pro,2022,1222,,,,3G,1,2
+14863211,smartphone,Samsung,Galaxy S13,2013,3529,,,,4G,2,32
+28131760,smartphone,Apple,IPhone 13,2021,3024,,,,3G,16,16
+91928640,smartphone,Samsung,Galaxy S21,2021,2892,,,,4G,12,8
+10566355,smartphone,Google,Pixel 7,2022,2333,,,,3G,1,32
+65340157,smartphone,Xiaomi,Redmi A5 Pro,2018,2664,,,,4G,4,16
+81617987,smartphone,Xiaomi,Redmi A5,2018,2565,,,,3G,1,16
+87544367,smartphone,Xiaomi,Redmi A5,2018,2872,,,,3G,12,128
+96045644,smartphone,Samsung,Galaxy S16,2016,3680,,,,5G,16,1
+94679669,smartphone,Google,Pixel 4,2019,2306,,,,3G,16,4
+11815140,smartphone,Apple,IPhone 14,2022,2781,,,,3G,1,1
+64896529,smartphone,Samsung,Galaxy S18,2018,3063,,,,3G,8,1
+31594178,smartphone,Xiaomi,Redmi A6 Pro,2019,2146,,,,4G,4,128
+70475911,smartphone,Google,Pixel 7,2022,2490,,,,3G,8,1
+32832854,smartphone,Google,Pixel 4,2019,1715,,,,3G,4,128
+83466042,smartphone,Google,Pixel 6,2021,2662,,,,5G,16,2
+61029106,smartphone,Google,Pixel 3,2018,4169,,,,4G,4,2
+83236578,smartphone,Google,Pixel 1,2016,3964,,,,3G,12,1
+20316973,smartphone,Google,Pixel 6,2021,1803,,,,3G,8,2
+38771648,smartphone,Apple,IPhone 9,2017,4490,,,,3G,10,128
+74728905,smartphone,Xiaomi,Redmi A9,2022,835,,,,4G,4,1
+66006185,smartphone,Apple,IPhone 8,2016,3396,,,,3G,8,1
+50358169,smartphone,Samsung,Galaxy S19,2019,2127,,,,3G,4,1
+84075987,smartphone,Xiaomi,Redmi A5,2018,2030,,,,3G,1,8
+78566133,smartphone,Apple,IPhone 11,2019,3095,,,,5G,8,32
+61687480,smartphone,Google,Pixel 6,2021,1707,,,,5G,10,4
+83172095,smartphone,Google,Pixel 3 Pro,2018,3316,,,,5G,1,8
+31765057,smartphone,Google,Pixel 7,2022,2367,,,,3G,8,32
+42233627,smartphone,Google,Pixel 6 Pro,2021,2857,,,,3G,16,2
+26706309,smartphone,Samsung,Galaxy S20,2020,1269,,,,5G,1,4
+26645000,smartphone,Apple,IPhone 11,2019,3183,,,,3G,1,1
+22683673,smartphone,Samsung,Galaxy S16,2016,4809,,,,5G,4,4
+22857142,smartphone,Samsung,Galaxy S14,2014,3944,,,,4G,1,1
+66858983,smartphone,Google,Pixel 4,2019,2467,,,,4G,2,1
+75945187,smartphone,Google,Pixel 7,2022,1649,,,,4G,16,128
+99216494,smartphone,Xiaomi,Redmi A6,2019,814,,,,5G,1,8
+55343757,smartphone,Google,Pixel 5,2020,1773,,,,4G,1,2
+81235154,smartphone,Xiaomi,Redmi A6,2019,1510,,,,5G,2,64
+94456634,smartphone,Xiaomi,Redmi A7,2020,1064,,,,4G,4,32
+95211931,smartphone,Google,Pixel 4,2019,2690,,,,3G,2,4
+22859884,smartphone,Xiaomi,Redmi A8,2021,959,,,,5G,4,1
+34976376,smartphone,Apple,IPhone 12,2020,3006,,,,3G,2,1
+63187875,smartphone,Samsung,Galaxy S19,2019,2352,,,,3G,1,2
+28449430,smartphone,Xiaomi,Redmi A5,2018,2179,,,,3G,8,2
+30997112,smartphone,Google,Pixel 6 Pro,2021,2524,,,,4G,16,32
+79743064,smartphone,Xiaomi,Redmi A8 Pro,2021,1551,,,,4G,1,4
+88996703,smartphone,Xiaomi,Redmi A8,2021,1561,,,,3G,12,16
+88509912,smartphone,Samsung,Galaxy S20,2020,2647,,,,5G,10,1
+58346585,smartphone,Samsung,Galaxy S20,2020,1811,,,,5G,2,1
+68384364,smartphone,Apple,IPhone 10,2018,4231,,,,3G,8,32
+42476045,smartphone,Google,Pixel 5 Pro,2020,2596,,,,5G,16,32
+51623874,smartphone,Xiaomi,Redmi A8,2021,1607,,,,4G,2,8
+57528199,smartphone,Google,Pixel 7,2022,1901,,,,3G,16,128
+98499866,smartphone,Google,Pixel 3,2018,4460,,,,3G,2,2
+65327024,smartphone,Xiaomi,Redmi A7,2020,1510,,,,3G,16,64
+84906895,smartphone,Apple,IPhone 12,2020,2511,,,,5G,1,128
+13679612,smartphone,Google,Pixel 4,2019,2284,,,,3G,4,4
+86118267,smartphone,Samsung,Galaxy S16,2016,4723,,,,5G,2,32
+54597575,smartphone,Apple,IPhone 9,2017,5400,,,,5G,2,16
+83126761,smartphone,Google,Pixel 2,2017,3677,,,,3G,10,2
+37377357,smartphone,Samsung,Galaxy S15 Pro,2015,3985,,,,5G,8,16
+25826685,smartphone,Xiaomi,Redmi A9,2022,1645,,,,3G,2,32
+77860751,smartphone,Samsung,Galaxy S14,2014,3269,,,,4G,1,2
+87522877,smartphone,Samsung,Galaxy S18,2018,4031,,,,4G,1,4
+82996128,smartphone,Samsung,Galaxy S20,2020,2406,,,,4G,4,32
+73942764,smartphone,Samsung,Galaxy S14,2014,3238,,,,5G,16,2
+26023109,smartphone,Google,Pixel 7 Pro,2022,2844,,,,5G,2,64
+31584484,smartphone,Samsung,Galaxy S14,2014,3147,,,,3G,10,8
+51173453,smartphone,Xiaomi,Redmi A7,2020,1509,,,,3G,12,32
+18176598,smartphone,Apple,IPhone 8 Pro,2016,5870,,,,3G,16,4
+10895678,smartphone,Samsung,Galaxy S14 Pro,2014,4327,,,,3G,8,2
+10182812,smartphone,Xiaomi,Redmi A5,2018,2580,,,,3G,2,4
+35889400,smartphone,Google,Pixel 6,2021,2432,,,,5G,1,1
+60644373,smartphone,Xiaomi,Redmi A9,2022,1379,,,,3G,1,8
+77543611,smartphone,Google,Pixel 7,2022,2621,,,,4G,12,128
+96560115,smartphone,Google,Pixel 3,2018,2800,,,,4G,4,8
+40575619,smartphone,Apple,IPhone 9,2017,3616,,,,4G,4,16
+78638962,smartphone,Xiaomi,Redmi A9,2022,1698,,,,4G,4,32
+51877645,smartphone,Samsung,Galaxy S15 Pro,2015,5039,,,,5G,1,8
+10330946,smartphone,Xiaomi,Redmi A9,2022,1384,,,,3G,12,64
+77532840,smartphone,Google,Pixel 7,2022,1928,,,,5G,2,16
+29768034,smartphone,Xiaomi,Redmi A6 Pro,2019,1508,,,,3G,2,32
+31198970,smartphone,Apple,IPhone 13 Pro,2021,3283,,,,3G,10,128
+19019610,smartphone,Apple,IPhone 12 Pro,2020,3722,,,,4G,12,128
+28463397,smartphone,Xiaomi,Redmi A9 Pro,2022,1671,,,,4G,2,64
+12475965,smartphone,Samsung,Galaxy S13,2013,3860,,,,5G,4,16
+37831548,smartphone,Google,Pixel 4,2019,2215,,,,5G,12,128
+77197960,smartphone,Xiaomi,Redmi A9 Pro,2022,1577,,,,5G,12,1
+73775866,smartphone,Xiaomi,Redmi A5,2018,2875,,,,4G,12,2
+39151624,smartphone,Xiaomi,Redmi A7,2020,1287,,,,5G,2,32
+21828190,smartphone,Apple,IPhone 9,2017,4139,,,,4G,12,128
+85696081,smartphone,Samsung,Galaxy S20,2020,2842,,,,3G,10,16
+39287268,smartphone,Samsung,Galaxy S14,2014,4839,,,,4G,10,8
+19061358,smartphone,Xiaomi,Redmi A5,2018,2585,,,,5G,2,32
+41248725,smartphone,Samsung,Galaxy S19,2019,1344,,,,4G,12,4
+75903734,smartphone,Xiaomi,Redmi A5,2018,2301,,,,3G,12,4
+58981538,smartphone,Apple,IPhone 12,2020,2800,,,,4G,8,4
+24197350,smartphone,Xiaomi,Redmi A7,2020,1599,,,,4G,10,64
+49277184,smartphone,Samsung,Galaxy S20,2020,2240,,,,3G,12,128
+68174498,smartphone,Google,Pixel 1,2016,2975,,,,3G,12,64
+68660544,smartphone,Samsung,Galaxy S20,2020,1293,,,,3G,8,64
+31369513,smartphone,Samsung,Galaxy S22,2022,1966,,,,3G,2,32
+97630200,smartphone,Samsung,Galaxy S17,2017,3343,,,,5G,16,32
+15868686,smartphone,Google,Pixel 4,2019,2547,,,,3G,4,16
+89221885,smartphone,Samsung,Galaxy S13,2013,3285,,,,3G,8,1
+25254407,smartphone,Xiaomi,Redmi A9,2022,563,,,,5G,1,8
+13864815,smartphone,Samsung,Galaxy S17,2017,3792,,,,4G,4,8
+90156143,smartphone,Google,Pixel 4 Pro,2019,2933,,,,3G,8,8
+27773755,smartphone,Google,Pixel 6,2021,1734,,,,4G,12,2
+55850794,smartphone,Samsung,Galaxy S15,2015,3028,,,,3G,12,4
+82335000,smartphone,Samsung,Galaxy S22 Pro,2022,2557,,,,3G,12,4
+10564772,smartphone,Google,Pixel 2,2017,3129,,,,3G,16,8
+96305070,smartphone,Google,Pixel 3,2018,4349,,,,5G,10,2
+33861295,smartphone,Google,Pixel 2,2017,3696,,,,5G,4,128
+55661917,smartphone,Google,Pixel 1 Pro,2016,4398,,,,4G,1,1
+93095691,smartphone,Apple,IPhone 14,2022,2927,,,,3G,8,16
+56347091,smartphone,Google,Pixel 1,2016,2710,,,,3G,8,64
+29861057,smartphone,Xiaomi,Redmi A6,2019,1530,,,,4G,1,16
+14132172,smartphone,Google,Pixel 5 Pro,2020,2184,,,,5G,10,1
+24491720,smartphone,Apple,IPhone 12,2020,2528,,,,5G,4,16
+32399156,smartphone,Xiaomi,Redmi A9,2022,1703,,,,5G,1,128
+43164144,smartphone,Google,Pixel 5,2020,1927,,,,5G,4,1
+11930966,smartphone,Apple,IPhone 9 Pro,2017,5168,,,,5G,12,2
+85152425,smartphone,Google,Pixel 7 Pro,2022,3085,,,,5G,8,2
+24560917,smartphone,Google,Pixel 4,2019,2488,,,,3G,12,32
+32412317,smartphone,Google,Pixel 7 Pro,2022,2827,,,,3G,1,8
+35718792,smartphone,Google,Pixel 6,2021,2199,,,,4G,2,8
+93861114,smartphone,Xiaomi,Redmi A6,2019,1614,,,,4G,4,64
+25244382,smartphone,Xiaomi,Redmi A9,2022,711,,,,3G,2,2
+92668611,smartphone,Apple,IPhone 12,2020,3110,,,,5G,1,16
+37249219,smartphone,Xiaomi,Redmi A9,2022,1741,,,,3G,12,8
+18448765,smartphone,Samsung,Galaxy S17,2017,3080,,,,5G,1,16
+78479331,smartphone,Samsung,Galaxy S14,2014,3724,,,,3G,16,128
+90357468,smartphone,Xiaomi,Redmi A6,2019,752,,,,3G,10,16
+92408439,smartphone,Google,Pixel 4,2019,2247,,,,4G,12,64
+77036002,smartphone,Samsung,Galaxy S15,2015,3739,,,,5G,2,16
+23500937,smartphone,Xiaomi,Redmi A5,2018,2914,,,,5G,2,32
+58737745,smartphone,Xiaomi,Redmi A6,2019,755,,,,5G,10,64
+47229031,smartphone,Xiaomi,Redmi A5,2018,2368,,,,5G,8,8
+85745202,smartphone,Samsung,Galaxy S17,2017,3713,,,,5G,4,1
+96614685,smartphone,Xiaomi,Redmi A7,2020,1054,,,,3G,2,4
+81563108,smartphone,Xiaomi,Redmi A6,2019,1038,,,,4G,8,1
+29433473,smartphone,Google,Pixel 2,2017,3489,,,,4G,4,64
+65943577,smartphone,Apple,IPhone 13,2021,2884,,,,3G,10,1
+66946923,smartphone,Google,Pixel 3,2018,3586,,,,4G,1,128
+91852185,smartphone,Apple,IPhone 10,2018,4979,,,,3G,4,128
+69230962,smartphone,Samsung,Galaxy S21,2021,2484,,,,5G,10,128
+49637803,smartphone,Xiaomi,Redmi A7,2020,1362,,,,5G,2,16
+57937484,smartphone,Samsung,Galaxy S15,2015,3755,,,,4G,16,32
+77045934,smartphone,Xiaomi,Redmi A6,2019,931,,,,3G,12,8
+94968846,smartphone,Apple,IPhone 14 Pro,2022,3568,,,,4G,16,1
+37650211,smartphone,Apple,IPhone 12,2020,3175,,,,5G,4,4
+15008713,smartphone,Xiaomi,Redmi A5,2018,2913,,,,5G,4,2
+33387449,smartphone,Google,Pixel 6,2021,1597,,,,4G,1,16
+56976268,smartphone,Google,Pixel 7,2022,2439,,,,4G,16,1
+57654340,smartphone,Apple,IPhone 11,2019,2917,,,,4G,4,2
+94675456,smartphone,Samsung,Galaxy S18,2018,3092,,,,5G,1,8
+25646682,smartphone,Google,Pixel 4 Pro,2019,2222,,,,5G,1,128
+57358492,smartphone,Apple,IPhone 8,2016,4303,,,,5G,8,2
+20935140,smartphone,Samsung,Galaxy S13,2013,4439,,,,3G,1,8
+65002954,smartphone,Apple,IPhone 9,2017,3833,,,,4G,2,64
+91606050,smartphone,Samsung,Galaxy S20,2020,1372,,,,5G,4,8
+93809096,smartphone,Samsung,Galaxy S22 Pro,2022,2601,,,,5G,12,128
+48943837,smartphone,Samsung,Galaxy S17,2017,3121,,,,5G,16,64
+69945087,smartphone,Apple,IPhone 8,2016,5409,,,,3G,12,128
+29917789,smartphone,Samsung,Galaxy S18,2018,4330,,,,5G,10,32
+96109662,smartphone,Samsung,Galaxy S21,2021,2946,,,,4G,2,128
+69593566,smartphone,Samsung,Galaxy S20,2020,915,,,,4G,16,16
+74347203,smartphone,Google,Pixel 6,2021,2603,,,,4G,4,16
+88815327,smartphone,Apple,IPhone 10 Pro,2018,5913,,,,3G,1,8
+27183529,smartphone,Xiaomi,Redmi A8,2021,1752,,,,3G,2,1
+91420671,smartphone,Google,Pixel 5,2020,2318,,,,3G,12,64
+65843627,smartphone,Google,Pixel 2,2017,3138,,,,3G,1,32
+64821743,smartphone,Samsung,Galaxy S13,2013,3614,,,,5G,4,32
+70215249,smartphone,Xiaomi,Redmi A9,2022,767,,,,5G,2,4
+68245546,smartphone,Apple,IPhone 9,2017,4325,,,,5G,8,4
+71904365,smartphone,Xiaomi,Redmi A8 Pro,2021,1390,,,,4G,16,128
+34240351,smartphone,Xiaomi,Redmi A5 Pro,2018,3375,,,,4G,4,4
+40323174,smartphone,Apple,IPhone 10,2018,4745,,,,4G,4,2
+93119115,smartphone,Xiaomi,Redmi A5,2018,2031,,,,4G,8,8
+87755986,smartphone,Apple,IPhone 11,2019,2820,,,,3G,16,64
+19422012,smartphone,Google,Pixel 2 Pro,2017,4702,,,,5G,8,64
+67938469,smartphone,Xiaomi,Redmi A7,2020,1151,,,,5G,2,128
+68444929,smartphone,Apple,IPhone 13,2021,2891,,,,5G,12,2
+46881352,smartphone,Samsung,Galaxy S22,2022,962,,,,5G,8,128
+59788988,smartphone,Samsung,Galaxy S13,2013,3643,,,,3G,16,128
+85268273,smartphone,Google,Pixel 3 Pro,2018,4795,,,,3G,4,2
+24799153,smartphone,Samsung,Galaxy S22,2022,1296,,,,4G,10,64
+44709868,smartphone,Apple,IPhone 13,2021,2895,,,,5G,10,32
+36321552,smartphone,Google,Pixel 2 Pro,2017,4600,,,,3G,8,32
+88014411,smartphone,Google,Pixel 7,2022,1803,,,,4G,16,64
+33757228,smartphone,Samsung,Galaxy S17,2017,3184,,,,4G,16,64
+61852888,smartphone,Samsung,Galaxy S16 Pro,2016,4370,,,,3G,16,1
+43431926,smartphone,Samsung,Galaxy S18 Pro,2018,3828,,,,5G,1,1
+38196880,smartphone,Samsung,Galaxy S19,2019,1600,,,,3G,10,128
+63568839,smartphone,Apple,IPhone 8,2016,5255,,,,5G,1,128
+55242369,smartphone,Samsung,Galaxy S14,2014,3427,,,,3G,12,2
+76982267,smartphone,Apple,IPhone 8,2016,3959,,,,4G,1,128
+31039982,smartphone,Xiaomi,Redmi A8 Pro,2021,2082,,,,3G,4,128
+46666258,smartphone,Samsung,Galaxy S17,2017,3817,,,,5G,16,64
+40518625,smartphone,Samsung,Galaxy S17 Pro,2017,4962,,,,5G,8,64
+42720882,smartphone,Google,Pixel 7,2022,1824,,,,4G,8,2
+24430609,smartphone,Samsung,Galaxy S18,2018,4366,,,,4G,10,4
+45896978,smartphone,Google,Pixel 2,2017,2914,,,,4G,10,32
+72276169,smartphone,Samsung,Galaxy S20 Pro,2020,2247,,,,4G,4,128
+33300155,smartphone,Xiaomi,Redmi A6,2019,884,,,,5G,16,32
+76228505,smartphone,Google,Pixel 5,2020,1959,,,,3G,12,2
+94594542,smartphone,Apple,IPhone 8,2016,4515,,,,3G,10,1
+51812747,smartphone,Samsung,Galaxy S17 Pro,2017,3844,,,,5G,1,1
+28430453,smartphone,Google,Pixel 5 Pro,2020,2548,,,,4G,8,64
+16699279,smartphone,Apple,IPhone 14 Pro,2022,3225,,,,5G,4,128
+18924682,smartphone,Google,Pixel 2,2017,3188,,,,4G,4,8
+54809672,smartphone,Samsung,Galaxy S14 Pro,2014,5205,,,,5G,1,8
+40183530,smartphone,Xiaomi,Redmi A5,2018,2920,,,,4G,1,64
+58386979,smartphone,Samsung,Galaxy S17,2017,3069,,,,3G,8,64
+84162997,smartphone,Google,Pixel 7,2022,1800,,,,5G,16,128
+60527863,smartphone,Google,Pixel 4,2019,2541,,,,5G,10,64
+93242677,smartphone,Samsung,Galaxy S18 Pro,2018,4044,,,,5G,1,8
+28968778,smartphone,Google,Pixel 5 Pro,2020,2065,,,,3G,10,4
+74475344,smartphone,Apple,IPhone 11 Pro,2019,3346,,,,4G,8,4
+82807373,smartphone,Xiaomi,Redmi A8,2021,897,,,,5G,16,2
+70304718,smartphone,Xiaomi,Redmi A9,2022,1226,,,,3G,10,128
+65453838,smartphone,Samsung,Galaxy S21,2021,1908,,,,4G,10,4
+10428450,smartphone,Xiaomi,Redmi A5,2018,2357,,,,5G,4,4
+61134340,smartphone,Google,Pixel 3,2018,4376,,,,5G,8,16
+25986645,smartphone,Samsung,Galaxy S15,2015,3229,,,,5G,12,64
+78834841,smartphone,Samsung,Galaxy S13,2013,3397,,,,4G,1,2
+30050666,smartphone,Xiaomi,Redmi A5 Pro,2018,2717,,,,4G,10,1
+47118789,smartphone,Google,Pixel 4 Pro,2019,2834,,,,3G,2,16
+12286356,smartphone,Apple,IPhone 13,2021,2849,,,,5G,4,1
+52915997,smartphone,Google,Pixel 2,2017,2919,,,,3G,16,64
+59956320,smartphone,Samsung,Galaxy S13,2013,3141,,,,3G,12,128
+52421073,smartphone,Google,Pixel 5,2020,2080,,,,3G,1,64
+76283764,smartphone,Google,Pixel 6,2021,2346,,,,5G,4,32
+67026522,smartphone,Samsung,Galaxy S22,2022,2910,,,,4G,10,4
+57455807,smartphone,Apple,IPhone 10,2018,5375,,,,3G,1,2
+33992616,smartphone,Xiaomi,Redmi A5,2018,2035,,,,4G,2,128
+42229996,smartphone,Google,Pixel 6,2021,1756,,,,4G,8,128
+83919781,smartphone,Xiaomi,Redmi A6,2019,1180,,,,5G,10,1
+43056805,smartphone,Xiaomi,Redmi A7,2020,522,,,,5G,12,4
+81513698,smartphone,Xiaomi,Redmi A5 Pro,2018,3304,,,,3G,1,64
+87384395,smartphone,Apple,IPhone 9,2017,4699,,,,3G,2,64
+55264738,smartphone,Xiaomi,Redmi A9,2022,1496,,,,5G,2,32
+10932803,smartphone,Xiaomi,Redmi A6,2019,1627,,,,4G,16,4
+94610757,smartphone,Samsung,Galaxy S15,2015,4067,,,,3G,4,16
+86725343,smartphone,Xiaomi,Redmi A8,2021,935,,,,5G,12,8
+69010510,smartphone,Apple,IPhone 13 Pro,2021,3342,,,,5G,12,2
+61427582,smartphone,Xiaomi,Redmi A9 Pro,2022,2214,,,,4G,4,64
+67231446,smartphone,Xiaomi,Redmi A9,2022,504,,,,5G,2,2
+87568686,smartphone,Apple,IPhone 8,2016,3687,,,,4G,8,64
+93026670,smartphone,Google,Pixel 5,2020,2501,,,,5G,2,32
+55236172,smartphone,Samsung,Galaxy S16,2016,3925,,,,4G,2,2
+98621240,smartphone,Samsung,Galaxy S21,2021,1442,,,,4G,4,64
+21477051,smartphone,Apple,IPhone 8,2016,5071,,,,3G,4,16
+96366955,smartphone,Xiaomi,Redmi A7,2020,767,,,,3G,4,8
+85676576,smartphone,Xiaomi,Redmi A8,2021,1263,,,,5G,1,16
+74814675,smartphone,Samsung,Galaxy S14,2014,3092,,,,3G,12,128
+15801151,smartphone,Google,Pixel 4,2019,2113,,,,4G,2,64
+26796996,smartphone,Google,Pixel 1 Pro,2016,3716,,,,4G,16,8
+47342663,smartphone,Xiaomi,Redmi A5,2018,2225,,,,4G,16,1
+47481148,smartphone,Google,Pixel 5,2020,2605,,,,4G,16,128
+67741475,smartphone,Samsung,Galaxy S16,2016,4357,,,,5G,8,8
+44629242,smartphone,Xiaomi,Redmi A5,2018,2972,,,,5G,1,128
+91326398,smartphone,Apple,IPhone 10 Pro,2018,4276,,,,5G,16,2
+32689135,smartphone,Xiaomi,Redmi A6,2019,927,,,,4G,10,2
+61672482,smartphone,Apple,IPhone 13,2021,3036,,,,3G,1,8
+64686375,smartphone,Xiaomi,Redmi A6,2019,1377,,,,3G,8,16
+38473058,smartphone,Apple,IPhone 14 Pro,2022,3648,,,,4G,1,4
+30773634,smartphone,Xiaomi,Redmi A9,2022,1478,,,,3G,4,32
+61995256,smartphone,Samsung,Galaxy S15,2015,4512,,,,4G,2,4
+12491654,smartphone,Xiaomi,Redmi A8 Pro,2021,1783,,,,3G,4,32
+74710208,smartphone,Xiaomi,Redmi A8,2021,559,,,,5G,1,8
+34072271,smartphone,Samsung,Galaxy S22,2022,2218,,,,3G,16,64
+77035833,smartphone,Google,Pixel 4,2019,2207,,,,4G,10,32
+12769579,smartphone,Samsung,Galaxy S17,2017,3879,,,,5G,8,128
+27108068,smartphone,Xiaomi,Redmi A8 Pro,2021,1102,,,,5G,2,32
+66460613,smartphone,Samsung,Galaxy S20,2020,2349,,,,4G,12,8
+12286855,smartphone,Samsung,Galaxy S21,2021,2647,,,,4G,8,128
+73266919,smartphone,Xiaomi,Redmi A5,2018,2632,,,,3G,2,64
+68399147,smartphone,Samsung,Galaxy S14,2014,3517,,,,4G,2,32
+97875654,smartphone,Xiaomi,Redmi A7,2020,937,,,,5G,16,1
+93019706,smartphone,Samsung,Galaxy S22 Pro,2022,3312,,,,4G,12,64
+77391499,smartphone,Samsung,Galaxy S16,2016,3120,,,,5G,2,32
+55014438,smartphone,Xiaomi,Redmi A6,2019,1725,,,,5G,10,2
+93985879,smartphone,Samsung,Galaxy S20,2020,1059,,,,5G,12,16
+88298410,smartphone,Apple,IPhone 8 Pro,2016,4968,,,,3G,12,64
+77517299,smartphone,Apple,IPhone 12,2020,2851,,,,4G,1,1
+44961418,smartphone,Apple,IPhone 9,2017,4385,,,,3G,16,64
+84233413,smartphone,Apple,IPhone 12,2020,3100,,,,4G,16,128
+68035758,smartphone,Apple,IPhone 11,2019,3042,,,,3G,2,4
+69280603,smartphone,Samsung,Galaxy S13,2013,4586,,,,3G,4,4
+67519485,smartphone,Xiaomi,Redmi A8,2021,1729,,,,5G,8,1
+96906868,smartphone,Xiaomi,Redmi A8,2021,1601,,,,4G,10,2
+92378251,smartphone,Apple,IPhone 11,2019,2649,,,,5G,4,32
+64900458,smartphone,Apple,IPhone 9 Pro,2017,5012,,,,5G,10,1
+55651128,smartphone,Google,Pixel 7,2022,1649,,,,4G,12,2
+57069644,smartphone,Apple,IPhone 12,2020,2984,,,,3G,4,16
+67089547,smartphone,Xiaomi,Redmi A6,2019,546,,,,4G,2,1
+56809404,smartphone,Apple,IPhone 14,2022,2722,,,,5G,1,2
+31770813,smartphone,Samsung,Galaxy S15,2015,3782,,,,4G,8,1
+86558633,smartphone,Samsung,Galaxy S19,2019,1150,,,,5G,16,1
+66745453,smartphone,Apple,IPhone 12,2020,2695,,,,5G,10,2
+20819422,smartphone,Xiaomi,Redmi A6,2019,1633,,,,4G,4,16
+18912104,smartphone,Xiaomi,Redmi A8,2021,1216,,,,4G,2,16
+24662473,smartphone,Xiaomi,Redmi A5 Pro,2018,3128,,,,4G,12,4
+93121913,smartphone,Google,Pixel 1 Pro,2016,3562,,,,5G,12,16
+19387483,smartphone,Xiaomi,Redmi A8,2021,1779,,,,4G,8,8
+11344461,smartphone,Google,Pixel 6,2021,2387,,,,4G,1,64
+83598953,smartphone,Xiaomi,Redmi A6 Pro,2019,1922,,,,3G,2,16
+23738525,smartphone,Google,Pixel 5,2020,2460,,,,5G,8,128
+12824723,smartphone,Samsung,Galaxy S22,2022,1388,,,,5G,16,32
+59778730,smartphone,Google,Pixel 7,2022,2071,,,,4G,10,64
+87216687,smartphone,Xiaomi,Redmi A5 Pro,2018,2856,,,,3G,4,2
+16915300,smartphone,Xiaomi,Redmi A5,2018,2699,,,,5G,1,64
+73631225,smartphone,Xiaomi,Redmi A8,2021,1733,,,,5G,12,128
+26493739,smartphone,Xiaomi,Redmi A9,2022,1350,,,,4G,12,32
+88710881,smartphone,Samsung,Galaxy S22,2022,772,,,,3G,16,16
+93572816,smartphone,Samsung,Galaxy S21,2021,2185,,,,3G,16,2
+15390974,smartphone,Samsung,Galaxy S20,2020,1880,,,,3G,1,128
+73677581,smartphone,Xiaomi,Redmi A9,2022,1028,,,,3G,12,8
+50060555,smartphone,Xiaomi,Redmi A9,2022,1010,,,,4G,2,1
+98293973,smartphone,Xiaomi,Redmi A7,2020,624,,,,3G,4,2
+27078310,smartphone,Samsung,Galaxy S15,2015,3511,,,,3G,12,32
+68222091,smartphone,Xiaomi,Redmi A6,2019,891,,,,5G,4,16
+15336562,smartphone,Google,Pixel 4,2019,1610,,,,5G,4,2
+47991112,smartphone,Google,Pixel 7,2022,1608,,,,5G,10,4
+56656953,smartphone,Xiaomi,Redmi A7,2020,1494,,,,4G,10,1
+98580005,smartphone,Google,Pixel 3,2018,3002,,,,3G,2,128
+28853779,smartphone,Google,Pixel 5,2020,1661,,,,4G,12,32
+94311209,smartphone,Apple,IPhone 10,2018,4074,,,,4G,4,2
+83584512,smartphone,Google,Pixel 4 Pro,2019,2677,,,,3G,1,64
+97295292,smartphone,Apple,IPhone 12,2020,3190,,,,4G,1,128
+34103398,smartphone,Google,Pixel 3,2018,3782,,,,4G,1,8
+16606869,smartphone,Google,Pixel 2,2017,4167,,,,5G,2,8
+37078162,smartphone,Apple,IPhone 9,2017,3980,,,,4G,2,32
+74993163,smartphone,Google,Pixel 4,2019,1578,,,,5G,1,32
+93373964,smartphone,Apple,IPhone 14,2022,2628,,,,4G,12,64
+25705731,smartphone,Samsung,Galaxy S20,2020,2251,,,,3G,10,2
+72193687,smartphone,Google,Pixel 3 Pro,2018,4447,,,,4G,10,32
+26278785,smartphone,Apple,IPhone 11 Pro,2019,3658,,,,3G,4,1
+52657457,smartphone,Apple,IPhone 8,2016,5031,,,,4G,4,8
+80432827,smartphone,Samsung,Galaxy S15,2015,4655,,,,4G,12,64
+86283735,smartphone,Xiaomi,Redmi A9 Pro,2022,1276,,,,4G,4,64
+27447893,smartphone,Google,Pixel 3,2018,3520,,,,3G,1,2
+57411121,smartphone,Xiaomi,Redmi A5,2018,2853,,,,3G,1,32
+81122224,smartphone,Xiaomi,Redmi A8,2021,749,,,,3G,16,2
+45007414,smartphone,Apple,IPhone 11,2019,2796,,,,5G,8,1
+68738512,smartphone,Apple,IPhone 8 Pro,2016,4708,,,,4G,12,4
+17792196,smartphone,Samsung,Galaxy S17 Pro,2017,5371,,,,4G,12,128
+50072839,smartphone,Xiaomi,Redmi A7,2020,1615,,,,3G,16,4
+29717166,smartphone,Google,Pixel 3,2018,3428,,,,3G,12,8
+49048629,smartphone,Xiaomi,Redmi A8,2021,626,,,,4G,16,2
+82356536,smartphone,Samsung,Galaxy S19,2019,2175,,,,3G,16,16
+16243133,smartphone,Apple,IPhone 11,2019,2592,,,,4G,8,2
+31922072,smartphone,Apple,IPhone 10,2018,5447,,,,5G,10,64
+31420550,smartphone,Google,Pixel 1 Pro,2016,4469,,,,5G,12,2
+58027071,smartphone,Apple,IPhone 10,2018,3880,,,,5G,4,128
+11532337,smartphone,Google,Pixel 1 Pro,2016,3783,,,,4G,10,64
+48561580,smartphone,Apple,IPhone 11,2019,2997,,,,3G,10,8
+69542907,smartphone,Google,Pixel 5,2020,1506,,,,4G,12,64
+78562959,smartphone,Apple,IPhone 12,2020,3071,,,,4G,16,128
+84202351,smartphone,Xiaomi,Redmi A7,2020,581,,,,5G,16,32
+36496383,smartphone,Xiaomi,Redmi A9,2022,899,,,,3G,2,4
+78587105,smartphone,Google,Pixel 7,2022,1931,,,,3G,8,16
+11446472,smartphone,Xiaomi,Redmi A7,2020,504,,,,3G,2,8
+91519611,smartphone,Xiaomi,Redmi A8,2021,546,,,,3G,4,1
+41582189,smartphone,Samsung,Galaxy S14,2014,4216,,,,5G,2,4
+57954091,smartphone,Xiaomi,Redmi A6,2019,1467,,,,4G,2,64
+76253280,smartphone,Google,Pixel 7,2022,2468,,,,4G,2,128
+34647755,smartphone,Apple,IPhone 9,2017,4904,,,,5G,12,32
+50995732,smartphone,Xiaomi,Redmi A7,2020,802,,,,3G,16,128
+98534374,smartphone,Google,Pixel 2,2017,3339,,,,3G,4,8
+51241069,smartphone,Samsung,Galaxy S21,2021,1850,,,,4G,8,1
+61775245,smartphone,Samsung,Galaxy S15,2015,4410,,,,5G,4,128
+66456336,smartphone,Samsung,Galaxy S14,2014,4264,,,,4G,16,128
+20841052,smartphone,Samsung,Galaxy S15,2015,4427,,,,4G,16,64
+82958356,smartphone,Samsung,Galaxy S22,2022,931,,,,3G,2,8
+93675213,smartphone,Google,Pixel 2,2017,3950,,,,3G,8,8
+66280603,smartphone,Xiaomi,Redmi A7,2020,507,,,,5G,4,2
+65868017,smartphone,Google,Pixel 5,2020,2275,,,,5G,1,8
+88729949,smartphone,Xiaomi,Redmi A6 Pro,2019,1689,,,,4G,4,64
+55230575,smartphone,Samsung,Galaxy S18,2018,4488,,,,4G,4,4
+61717406,smartphone,Google,Pixel 3,2018,3319,,,,4G,16,64
+34627957,smartphone,Xiaomi,Redmi A5,2018,2902,,,,5G,16,8
+26910528,smartphone,Google,Pixel 1,2016,2995,,,,3G,12,64
+77143424,smartphone,Samsung,Galaxy S14 Pro,2014,4654,,,,3G,1,64
+73119872,smartphone,Google,Pixel 6 Pro,2021,2299,,,,5G,16,64
+14099946,smartphone,Xiaomi,Redmi A8,2021,1358,,,,5G,4,8
+20113544,smartphone,Xiaomi,Redmi A9 Pro,2022,2019,,,,3G,8,128
+96756237,smartphone,Google,Pixel 3,2018,3869,,,,3G,16,128
+13895670,smartphone,Google,Pixel 6 Pro,2021,2859,,,,3G,2,8
+72003190,smartphone,Samsung,Galaxy S18,2018,4842,,,,4G,2,32
+45115679,smartphone,Google,Pixel 4 Pro,2019,2379,,,,4G,12,8
+94290702,smartphone,Samsung,Galaxy S14,2014,4463,,,,4G,2,1
+50799442,smartphone,Google,Pixel 2,2017,3721,,,,5G,8,16
+89543651,smartphone,Xiaomi,Redmi A7,2020,873,,,,5G,4,32
+53899930,smartphone,Samsung,Galaxy S18,2018,4769,,,,3G,1,2
+76063989,smartphone,Xiaomi,Redmi A5,2018,2641,,,,5G,4,128
+46847346,smartphone,Samsung,Galaxy S16,2016,3860,,,,5G,12,128
+62732419,smartphone,Samsung,Galaxy S16 Pro,2016,4359,,,,3G,8,4
+18869812,smartphone,Xiaomi,Redmi A7,2020,610,,,,3G,1,16
+25530640,smartphone,Apple,IPhone 11,2019,3255,,,,3G,2,4
+31200114,smartphone,Samsung,Galaxy S20,2020,2167,,,,5G,16,16
+67776666,smartphone,Google,Pixel 2,2017,4042,,,,4G,8,32
+35104397,smartphone,Xiaomi,Redmi A6,2019,650,,,,4G,1,2
+25574077,smartphone,Samsung,Galaxy S18 Pro,2018,5057,,,,4G,16,64
+38739434,smartphone,Apple,IPhone 14,2022,3108,,,,4G,4,4
+74291120,smartphone,Apple,IPhone 12,2020,3047,,,,4G,12,2
+91759427,smartphone,Apple,IPhone 8,2016,4642,,,,5G,16,2
+78236387,smartphone,Apple,IPhone 13,2021,2939,,,,4G,10,8
+88219713,smartphone,Samsung,Galaxy S20,2020,1668,,,,5G,2,4
+90071689,smartphone,Samsung,Galaxy S22,2022,1187,,,,5G,10,1
+13535029,smartphone,Apple,IPhone 8,2016,3965,,,,4G,4,8
+52352930,smartphone,Samsung,Galaxy S20,2020,2871,,,,3G,2,4
+71834157,smartphone,Samsung,Galaxy S13,2013,3639,,,,4G,1,16
+26530023,smartphone,Apple,IPhone 8,2016,3539,,,,3G,16,8
+14155185,smartphone,Google,Pixel 2 Pro,2017,4434,,,,4G,1,128
+33671926,smartphone,Xiaomi,Redmi A9,2022,1505,,,,3G,8,64
+34804166,smartphone,Xiaomi,Redmi A7,2020,1249,,,,5G,1,2
+39204983,smartphone,Samsung,Galaxy S17,2017,3088,,,,4G,8,1
+14792795,smartphone,Google,Pixel 5,2020,2574,,,,5G,2,4
+89114239,smartphone,Xiaomi,Redmi A8,2021,1052,,,,3G,2,4
+43770391,smartphone,Apple,IPhone 13 Pro,2021,3799,,,,3G,1,2
+72034041,smartphone,Google,Pixel 2,2017,4259,,,,3G,10,32
+23527442,smartphone,Samsung,Galaxy S14,2014,3422,,,,5G,10,2
+99235682,smartphone,Google,Pixel 3 Pro,2018,4238,,,,3G,1,128
+53471690,smartphone,Xiaomi,Redmi A7,2020,1268,,,,3G,12,128
+95338023,smartphone,Samsung,Galaxy S16 Pro,2016,4340,,,,4G,8,32
+76464612,smartphone,Google,Pixel 6,2021,2196,,,,5G,1,8
+89384855,smartphone,Xiaomi,Redmi A9 Pro,2022,1523,,,,5G,10,64
+79128745,smartphone,Apple,IPhone 10,2018,4675,,,,3G,12,2
+39313292,smartphone,Samsung,Galaxy S14 Pro,2014,3618,,,,5G,1,64
+84792272,smartphone,Samsung,Galaxy S18,2018,4595,,,,5G,16,128
+11814394,smartphone,Samsung,Galaxy S16,2016,3899,,,,3G,1,8
+21265969,smartphone,Xiaomi,Redmi A5,2018,2833,,,,5G,10,32
+79412941,smartphone,Samsung,Galaxy S13,2013,3562,,,,5G,1,16
+91048768,smartphone,Xiaomi,Redmi A5,2018,2511,,,,5G,10,8
+99716784,smartphone,Samsung,Galaxy S15,2015,3869,,,,3G,8,128
+48453805,smartphone,Apple,IPhone 12,2020,2977,,,,3G,12,4
+34269392,smartphone,Xiaomi,Redmi A7,2020,1085,,,,4G,12,8
+50546216,smartphone,Google,Pixel 5,2020,1521,,,,3G,16,4
+32690660,smartphone,Xiaomi,Redmi A9 Pro,2022,2088,,,,3G,4,2
+95506657,smartphone,Xiaomi,Redmi A5,2018,1868,,,,5G,1,16
+60770089,smartphone,Apple,IPhone 10,2018,3799,,,,4G,4,1
+69016901,smartphone,Apple,IPhone 11,2019,2576,,,,3G,10,16
+34499824,smartphone,Xiaomi,Redmi A6,2019,828,,,,3G,4,8
+84244815,smartphone,Apple,IPhone 8 Pro,2016,5263,,,,3G,1,1
+70421797,smartphone,Samsung,Galaxy S22,2022,1984,,,,5G,4,16
+67958725,smartphone,Samsung,Galaxy S13,2013,3992,,,,4G,16,16
+20712166,smartphone,Apple,IPhone 11,2019,2637,,,,3G,16,128
+59125853,smartphone,Samsung,Galaxy S13,2013,3371,,,,5G,10,8
+37345395,smartphone,Apple,IPhone 10,2018,4662,,,,3G,10,8
+38056111,smartphone,Google,Pixel 5,2020,1679,,,,3G,16,32
+57580996,smartphone,Xiaomi,Redmi A5,2018,2517,,,,3G,16,128
+52318554,smartphone,Xiaomi,Redmi A7,2020,1497,,,,4G,10,64
+39503985,smartphone,Apple,IPhone 13,2021,3015,,,,5G,1,64
+41452130,smartphone,Apple,IPhone 14,2022,2594,,,,4G,10,16
+87305007,smartphone,Samsung,Galaxy S16,2016,4059,,,,4G,4,32
+71574462,smartphone,Xiaomi,Redmi A8 Pro,2021,1747,,,,3G,4,4
+90480118,smartphone,Samsung,Galaxy S16,2016,3225,,,,3G,4,8
+30326261,smartphone,Apple,IPhone 9,2017,4515,,,,5G,4,64
+46435635,smartphone,Apple,IPhone 11 Pro,2019,3448,,,,5G,10,4
+36559798,smartphone,Samsung,Galaxy S14 Pro,2014,4585,,,,4G,8,2
+37142703,smartphone,Samsung,Galaxy S17,2017,4198,,,,3G,10,1
+58199180,smartphone,Samsung,Galaxy S20,2020,2628,,,,3G,1,64
+46958606,smartphone,Samsung,Galaxy S15,2015,3383,,,,5G,10,2
+44174647,smartphone,Samsung,Galaxy S21,2021,938,,,,3G,1,8
+52729837,smartphone,Samsung,Galaxy S17 Pro,2017,4603,,,,4G,2,8
+78971773,smartphone,Samsung,Galaxy S19,2019,1714,,,,5G,8,4
+29207749,smartphone,Xiaomi,Redmi A7 Pro,2020,1072,,,,5G,4,32
+75020393,smartphone,Apple,IPhone 14 Pro,2022,3797,,,,4G,16,2
+16186543,smartphone,Apple,IPhone 9,2017,5156,,,,3G,12,8
+51983502,smartphone,Samsung,Galaxy S20,2020,2505,,,,3G,4,4
+30904290,smartphone,Google,Pixel 1,2016,3454,,,,5G,4,32
+70084352,smartphone,Samsung,Galaxy S13,2013,4728,,,,3G,10,1
+62879276,smartphone,Samsung,Galaxy S18,2018,4762,,,,5G,4,128
+26602976,smartphone,Samsung,Galaxy S21,2021,2507,,,,5G,8,2
+15058855,smartphone,Xiaomi,Redmi A6,2019,1214,,,,3G,8,4
+24683241,smartphone,Apple,IPhone 10,2018,3944,,,,4G,12,1
+35090903,smartphone,Samsung,Galaxy S15,2015,3242,,,,5G,2,16
+46012863,smartphone,Apple,IPhone 8,2016,4565,,,,4G,16,8
+38316180,smartphone,Google,Pixel 2 Pro,2017,3810,,,,5G,12,128
+67868538,smartphone,Apple,IPhone 12,2020,2743,,,,3G,10,32
+56161240,smartphone,Samsung,Galaxy S17 Pro,2017,3997,,,,3G,10,4
+51870382,smartphone,Apple,IPhone 12,2020,2886,,,,3G,10,2
+17994531,smartphone,Google,Pixel 1 Pro,2016,4663,,,,5G,4,16
+62556004,smartphone,Xiaomi,Redmi A8,2021,1301,,,,4G,2,2
+78051756,smartphone,Samsung,Galaxy S17 Pro,2017,4951,,,,4G,10,2
+66644991,smartphone,Apple,IPhone 13,2021,2971,,,,4G,16,32
+44518580,smartphone,Samsung,Galaxy S21 Pro,2021,1965,,,,3G,10,1
+26848499,smartphone,Apple,IPhone 14 Pro,2022,3252,,,,5G,12,1
+38518227,smartphone,Google,Pixel 4 Pro,2019,2448,,,,5G,12,32
+24255094,smartphone,Samsung,Galaxy S15,2015,4920,,,,5G,4,16
+74252212,smartphone,Apple,IPhone 14,2022,3090,,,,4G,8,2
+27313502,smartphone,Google,Pixel 5,2020,1916,,,,3G,10,2
+76520154,smartphone,Apple,IPhone 10 Pro,2018,5574,,,,4G,16,32
+47830091,smartphone,Samsung,Galaxy S19,2019,964,,,,5G,2,1
+30570335,smartphone,Apple,IPhone 8,2016,3607,,,,3G,1,32
+83012584,smartphone,Samsung,Galaxy S19,2019,2861,,,,3G,10,8
+21801929,smartphone,Samsung,Galaxy S22,2022,1586,,,,4G,10,128
+55630484,smartphone,Apple,IPhone 11,2019,2789,,,,5G,10,128
+28431751,smartphone,Samsung,Galaxy S13 Pro,2013,4970,,,,3G,1,8
+74194921,smartphone,Samsung,Galaxy S22,2022,2640,,,,5G,2,8
+63923566,smartphone,Apple,IPhone 8,2016,3841,,,,3G,1,128
+83901396,smartphone,Xiaomi,Redmi A7,2020,518,,,,5G,16,128
+26259804,smartphone,Google,Pixel 2 Pro,2017,4597,,,,4G,10,16
+83058125,smartphone,Google,Pixel 7,2022,1843,,,,5G,10,1
+17396619,smartphone,Xiaomi,Redmi A5,2018,2042,,,,4G,2,128
+98547592,smartphone,Xiaomi,Redmi A5,2018,2223,,,,5G,4,32
+18783930,smartphone,Apple,IPhone 12,2020,2887,,,,4G,4,32
+57665623,smartphone,Apple,IPhone 13,2021,2758,,,,4G,8,4
+65109827,smartphone,Google,Pixel 3,2018,3935,,,,3G,2,4
+84457695,smartphone,Xiaomi,Redmi A8,2021,770,,,,4G,16,2
+27413024,smartphone,Samsung,Galaxy S22,2022,1028,,,,5G,1,16
+80555393,smartphone,Apple,IPhone 8,2016,4686,,,,3G,4,16
+80021995,smartphone,Google,Pixel 7,2022,2350,,,,3G,16,8
+74825315,smartphone,Xiaomi,Redmi A7,2020,1377,,,,5G,16,128
+42774889,smartphone,Google,Pixel 3,2018,3174,,,,5G,2,1
+23762232,smartphone,Samsung,Galaxy S14 Pro,2014,4040,,,,4G,4,8
+77000347,smartphone,Samsung,Galaxy S17,2017,3273,,,,4G,8,2
+17782222,smartphone,Google,Pixel 1,2016,4350,,,,3G,16,16
+23321440,smartphone,Apple,IPhone 13,2021,2977,,,,4G,8,128
+56416488,smartphone,Google,Pixel 5,2020,1955,,,,4G,4,16
+62083565,smartphone,Google,Pixel 2,2017,4004,,,,4G,10,128
+36794788,smartphone,Google,Pixel 4,2019,1812,,,,5G,2,16
+50412847,smartphone,Apple,IPhone 8 Pro,2016,5894,,,,3G,8,16
+45415254,smartphone,Google,Pixel 2 Pro,2017,4967,,,,5G,4,8
+51075941,smartphone,Samsung,Galaxy S18,2018,4064,,,,5G,16,32
+64096570,smartphone,Apple,IPhone 11,2019,2727,,,,4G,2,2
+32001659,smartphone,Samsung,Galaxy S20,2020,1672,,,,4G,16,32
+45714966,smartphone,Xiaomi,Redmi A8,2021,1179,,,,4G,4,4
+18340472,smartphone,Samsung,Galaxy S17 Pro,2017,3612,,,,5G,8,128
+12479770,smartphone,Apple,IPhone 9 Pro,2017,5306,,,,5G,2,32
+91632334,smartphone,Google,Pixel 4,2019,1645,,,,5G,2,32
+49970338,smartphone,Xiaomi,Redmi A8,2021,1321,,,,4G,1,8
+35650720,smartphone,Xiaomi,Redmi A9 Pro,2022,1335,,,,3G,8,4
+98232812,smartphone,Apple,IPhone 13,2021,2813,,,,3G,16,128
+48187931,smartphone,Google,Pixel 6,2021,2279,,,,4G,12,2
+41347494,smartphone,Samsung,Galaxy S18,2018,4183,,,,3G,8,8
+67470273,smartphone,Google,Pixel 2,2017,3846,,,,5G,2,128
+99411473,smartphone,Apple,IPhone 13,2021,3182,,,,4G,1,16
+48320757,smartphone,Samsung,Galaxy S21,2021,2559,,,,3G,16,64
+59767072,smartphone,Google,Pixel 6 Pro,2021,2774,,,,5G,2,16
+37367812,smartphone,Apple,IPhone 14,2022,2936,,,,5G,8,8
+44945707,smartphone,Samsung,Galaxy S14,2014,3498,,,,4G,12,4
+45030801,smartphone,Xiaomi,Redmi A6,2019,1177,,,,4G,2,1
+21535018,smartphone,Xiaomi,Redmi A6,2019,1720,,,,3G,2,8
+94616975,smartphone,Apple,IPhone 11,2019,2696,,,,5G,12,1
+88314777,smartphone,Google,Pixel 1,2016,3493,,,,4G,10,16
+17180106,smartphone,Xiaomi,Redmi A5 Pro,2018,2935,,,,4G,12,64
+73882982,smartphone,Xiaomi,Redmi A8,2021,1324,,,,4G,12,1
+71718106,smartphone,Samsung,Galaxy S22 Pro,2022,3496,,,,5G,2,128
+63690940,smartphone,Xiaomi,Redmi A6,2019,861,,,,5G,16,2
+81328726,smartphone,Apple,IPhone 13,2021,2775,,,,5G,10,1
+84849830,smartphone,Google,Pixel 1,2016,3946,,,,4G,10,32
+72149303,smartphone,Xiaomi,Redmi A6,2019,1608,,,,4G,10,16
+85916723,smartphone,Apple,IPhone 9,2017,5484,,,,4G,2,8
+13854027,smartphone,Apple,IPhone 13,2021,2897,,,,5G,16,32
+79476734,smartphone,Google,Pixel 7,2022,2025,,,,5G,2,2
+65731752,smartphone,Samsung,Galaxy S20,2020,1494,,,,4G,1,8
+18466937,smartphone,Xiaomi,Redmi A9,2022,1501,,,,3G,8,16
+71510814,smartphone,Samsung,Galaxy S15,2015,3294,,,,4G,12,2
+31219683,smartphone,Samsung,Galaxy S22,2022,1939,,,,5G,2,4
+26069265,smartphone,Google,Pixel 2 Pro,2017,3234,,,,4G,4,128
+52679411,smartphone,Apple,IPhone 9,2017,4414,,,,4G,12,64
+38808565,smartphone,Apple,IPhone 11 Pro,2019,3507,,,,5G,2,16
+23280126,smartphone,Xiaomi,Redmi A7,2020,1413,,,,4G,12,32
+61425703,smartphone,Google,Pixel 5,2020,2362,,,,3G,1,32
+42072372,smartphone,Apple,IPhone 8 Pro,2016,5352,,,,4G,8,32
+62344245,smartphone,Google,Pixel 6,2021,1517,,,,4G,8,2
+47764771,smartphone,Samsung,Galaxy S17 Pro,2017,5154,,,,4G,4,2
+39317522,smartphone,Apple,IPhone 12,2020,2849,,,,3G,12,2
+26947478,smartphone,Xiaomi,Redmi A5,2018,2761,,,,3G,12,32
+36010595,smartphone,Xiaomi,Redmi A7,2020,523,,,,5G,2,1
+78042908,smartphone,Apple,IPhone 8,2016,3800,,,,5G,1,64
+85864708,smartphone,Apple,IPhone 9,2017,5490,,,,3G,16,64
+37425953,smartphone,Apple,IPhone 13,2021,3103,,,,5G,12,2
+26728315,smartphone,Google,Pixel 4,2019,2529,,,,4G,16,16
+99766749,smartphone,Apple,IPhone 13 Pro,2021,3362,,,,3G,12,128
+61376214,smartphone,Samsung,Galaxy S22,2022,2635,,,,3G,10,128
+82791736,smartphone,Google,Pixel 7 Pro,2022,2729,,,,3G,2,32
+84320968,smartphone,Apple,IPhone 12 Pro,2020,3091,,,,4G,8,64
+23911423,smartphone,Apple,IPhone 8,2016,3540,,,,5G,16,2
+15421025,smartphone,Samsung,Galaxy S15,2015,4565,,,,5G,2,1
+20147439,smartphone,Apple,IPhone 13,2021,2687,,,,3G,2,1
+99195621,smartphone,Xiaomi,Redmi A7,2020,1013,,,,4G,4,1
+13309299,smartphone,Xiaomi,Redmi A8,2021,1535,,,,4G,12,2
+43432534,smartphone,Apple,IPhone 10,2018,4275,,,,5G,1,128
+54824003,smartphone,Google,Pixel 7,2022,2041,,,,3G,12,16
+36522463,smartphone,Samsung,Galaxy S18,2018,3449,,,,4G,12,4
+28957232,smartphone,Apple,IPhone 10,2018,4794,,,,4G,2,128
+78481770,smartphone,Samsung,Galaxy S13,2013,3382,,,,3G,10,4
+94473125,smartphone,Apple,IPhone 13,2021,2667,,,,4G,8,8
+64396938,smartphone,Xiaomi,Redmi A6 Pro,2019,1521,,,,5G,16,4
+64818108,smartphone,Samsung,Galaxy S14,2014,4829,,,,3G,4,32
+24861320,smartphone,Xiaomi,Redmi A7,2020,1575,,,,3G,2,128
+37973103,smartphone,Apple,IPhone 14,2022,2841,,,,4G,10,64
+13048556,smartphone,Samsung,Galaxy S17 Pro,2017,3968,,,,4G,4,1
+63295226,smartphone,Google,Pixel 6,2021,2165,,,,5G,4,1
+47761437,smartphone,Xiaomi,Redmi A9,2022,1541,,,,4G,1,4
+91459339,smartphone,Google,Pixel 7 Pro,2022,2130,,,,5G,12,32
+26721471,smartphone,Samsung,Galaxy S16 Pro,2016,3705,,,,5G,12,4
+58456960,smartphone,Google,Pixel 1,2016,4092,,,,4G,2,2
+43043702,smartphone,Xiaomi,Redmi A7,2020,1026,,,,5G,16,32
+60101651,smartphone,Samsung,Galaxy S14,2014,4874,,,,5G,8,1
+34101549,smartphone,Xiaomi,Redmi A7,2020,906,,,,5G,2,32
+16963368,smartphone,Xiaomi,Redmi A5 Pro,2018,2501,,,,5G,4,2
+94909497,smartphone,Samsung,Galaxy S22 Pro,2022,1823,,,,5G,8,32
+35037862,smartphone,Google,Pixel 7,2022,2005,,,,3G,10,8
+36846897,smartphone,Apple,IPhone 10,2018,4714,,,,5G,1,64
+55070296,smartphone,Samsung,Galaxy S19,2019,2669,,,,4G,12,16
+45691817,smartphone,Samsung,Galaxy S15,2015,4820,,,,3G,12,8
+12104745,smartphone,Samsung,Galaxy S18,2018,4633,,,,5G,1,2
+22357172,smartphone,Apple,IPhone 13,2021,2760,,,,3G,10,32
+75850641,smartphone,Apple,IPhone 12,2020,2663,,,,3G,10,8
+95256621,smartphone,Samsung,Galaxy S22,2022,2160,,,,5G,1,8
+21223374,smartphone,Google,Pixel 6,2021,1503,,,,3G,8,1
+35065692,smartphone,Apple,IPhone 14,2022,2737,,,,5G,1,1
+48552954,smartphone,Google,Pixel 4,2019,1943,,,,4G,2,128
+30023455,smartphone,Apple,IPhone 13,2021,2849,,,,4G,10,4
+41900789,smartphone,Xiaomi,Redmi A5,2018,2846,,,,5G,4,64
+43282972,smartphone,Google,Pixel 1 Pro,2016,4153,,,,4G,10,4
+23453218,smartphone,Xiaomi,Redmi A9,2022,782,,,,5G,16,32
+20026277,smartphone,Google,Pixel 5,2020,1729,,,,5G,1,64
+50849761,smartphone,Apple,IPhone 11,2019,3122,,,,3G,8,1
+36952654,smartphone,Apple,IPhone 10,2018,3977,,,,4G,1,32
+20973820,smartphone,Samsung,Galaxy S18,2018,4608,,,,3G,1,2
+47224420,smartphone,Apple,IPhone 14,2022,2655,,,,3G,8,2
+12122102,smartphone,Xiaomi,Redmi A5 Pro,2018,2510,,,,4G,2,1
+47047121,smartphone,Samsung,Galaxy S20,2020,2092,,,,4G,8,2
+20778646,smartphone,Apple,IPhone 9,2017,3444,,,,4G,8,16
+23790735,smartphone,Apple,IPhone 10,2018,3634,,,,3G,12,16
+40776001,smartphone,Google,Pixel 5,2020,2342,,,,5G,8,1
+44649081,smartphone,Google,Pixel 2,2017,3092,,,,4G,2,1
+55710278,smartphone,Google,Pixel 3,2018,3034,,,,4G,10,2
+88796393,smartphone,Samsung,Galaxy S21 Pro,2021,2853,,,,4G,8,64
+62451067,smartphone,Samsung,Galaxy S22,2022,752,,,,5G,12,2
+64371462,smartphone,Apple,IPhone 8 Pro,2016,5762,,,,5G,4,1
+62427622,smartphone,Xiaomi,Redmi A5,2018,2716,,,,3G,16,8
+13626491,smartphone,Apple,IPhone 12,2020,3238,,,,3G,12,1
+71454083,smartphone,Apple,IPhone 11,2019,2714,,,,5G,4,16
+33168574,smartphone,Google,Pixel 3,2018,3604,,,,3G,8,16
+27003697,smartphone,Apple,IPhone 8,2016,4828,,,,3G,4,32
+38236567,smartphone,Google,Pixel 1,2016,3520,,,,5G,12,128
+90299941,smartphone,Samsung,Galaxy S22,2022,1958,,,,5G,16,2
+96827570,smartphone,Apple,IPhone 12,2020,2795,,,,3G,1,16
+57188004,smartphone,Samsung,Galaxy S17,2017,3483,,,,5G,12,4
+26302370,smartphone,Google,Pixel 6,2021,1965,,,,3G,1,1
+22358816,smartphone,Samsung,Galaxy S16,2016,4936,,,,3G,1,16
+30486404,smartphone,Google,Pixel 4,2019,2456,,,,3G,1,32
+63806750,smartphone,Xiaomi,Redmi A7,2020,1481,,,,3G,1,64
+75268992,smartphone,Google,Pixel 2,2017,2951,,,,3G,12,16
+78663575,smartphone,Google,Pixel 7,2022,2152,,,,3G,4,128
+57277124,smartphone,Google,Pixel 6,2021,2624,,,,5G,16,128
+10904967,smartphone,Xiaomi,Redmi A9,2022,543,,,,3G,16,4
+92342897,smartphone,Apple,IPhone 9,2017,4779,,,,4G,8,128
+84198911,smartphone,Apple,IPhone 8,2016,3741,,,,5G,4,2
+67769935,smartphone,Google,Pixel 6,2021,1841,,,,4G,4,4
+52486760,smartphone,Xiaomi,Redmi A7,2020,1371,,,,5G,2,2
+56357485,smartphone,Google,Pixel 3,2018,2903,,,,3G,12,8
+52144293,smartphone,Google,Pixel 5,2020,2097,,,,4G,16,64
+62226582,smartphone,Samsung,Galaxy S21,2021,844,,,,4G,12,4
+43609325,smartphone,Apple,IPhone 12,2020,3103,,,,5G,4,1
+54759633,smartphone,Xiaomi,Redmi A9,2022,762,,,,5G,10,8
+42684283,smartphone,Google,Pixel 2,2017,3354,,,,5G,1,8
+37453960,smartphone,Xiaomi,Redmi A6,2019,1511,,,,4G,4,16
+44530045,smartphone,Apple,IPhone 8 Pro,2016,5947,,,,4G,2,2
+95810813,smartphone,Google,Pixel 2,2017,3106,,,,4G,8,32
+68578574,smartphone,Google,Pixel 5,2020,2043,,,,5G,16,1
+30728047,smartphone,Xiaomi,Redmi A7,2020,1625,,,,4G,16,8
+32095623,smartphone,Apple,IPhone 9,2017,5031,,,,5G,2,16
+15935752,smartphone,Google,Pixel 5,2020,2040,,,,5G,1,4
+93604278,smartphone,Samsung,Galaxy S19,2019,2255,,,,5G,10,32
+83456626,smartphone,Xiaomi,Redmi A8,2021,1046,,,,3G,2,1
+51327605,smartphone,Google,Pixel 5,2020,1705,,,,4G,1,128
+11833205,smartphone,Google,Pixel 1,2016,3022,,,,5G,16,16
+36343817,smartphone,Google,Pixel 1,2016,3819,,,,5G,4,64
+59293731,smartphone,Samsung,Galaxy S21,2021,1955,,,,4G,8,32
+54261116,smartphone,Xiaomi,Redmi A7,2020,844,,,,3G,10,64
+65905534,smartphone,Samsung,Galaxy S15,2015,3487,,,,3G,12,4
+11609547,smartphone,Xiaomi,Redmi A8,2021,906,,,,4G,1,2
+32099598,smartphone,Apple,IPhone 14,2022,2785,,,,3G,2,32
+13382805,smartphone,Xiaomi,Redmi A7,2020,1397,,,,4G,1,64
+39080458,smartphone,Google,Pixel 7,2022,2043,,,,5G,1,4
+62138433,smartphone,Apple,IPhone 9,2017,3947,,,,4G,16,128
+93439384,smartphone,Xiaomi,Redmi A6 Pro,2019,1358,,,,4G,2,16
+92865731,smartphone,Samsung,Galaxy S18 Pro,2018,5422,,,,4G,8,2
+15271007,smartphone,Samsung,Galaxy S14,2014,3420,,,,5G,12,64
+72326087,smartphone,Samsung,Galaxy S22,2022,1060,,,,4G,8,4
+93519723,smartphone,Apple,IPhone 8,2016,4361,,,,3G,4,8
+58184040,smartphone,Samsung,Galaxy S13 Pro,2013,5325,,,,4G,2,64
+84197185,smartphone,Xiaomi,Redmi A7,2020,1039,,,,5G,1,8
+45104617,smartphone,Apple,IPhone 13,2021,2558,,,,5G,2,128
+81404977,smartphone,Xiaomi,Redmi A6,2019,910,,,,4G,4,1
+60730378,smartphone,Apple,IPhone 10,2018,3556,,,,5G,8,2
+39327346,smartphone,Xiaomi,Redmi A8 Pro,2021,1707,,,,3G,4,32
+31126080,smartphone,Google,Pixel 4 Pro,2019,2215,,,,4G,10,4
+97490387,smartphone,Xiaomi,Redmi A5,2018,2050,,,,4G,8,4
+40787697,smartphone,Samsung,Galaxy S16 Pro,2016,3842,,,,4G,8,8
+98635619,smartphone,Apple,IPhone 13,2021,2777,,,,3G,12,1
+57786375,smartphone,Xiaomi,Redmi A8,2021,573,,,,5G,4,1
+44503875,smartphone,Apple,IPhone 9 Pro,2017,4518,,,,5G,1,2
+14371656,smartphone,Apple,IPhone 12,2020,2685,,,,5G,4,8
+20681645,smartphone,Google,Pixel 4 Pro,2019,3104,,,,3G,12,8
+85766074,smartphone,Xiaomi,Redmi A5,2018,1831,,,,4G,12,8
+79521083,smartphone,Samsung,Galaxy S19,2019,2436,,,,4G,4,8
+32051370,smartphone,Samsung,Galaxy S17,2017,3905,,,,4G,2,16
+67629521,smartphone,Samsung,Galaxy S17 Pro,2017,4771,,,,5G,4,1
+81414650,smartphone,Apple,IPhone 13,2021,2638,,,,4G,8,32
+22732154,smartphone,Samsung,Galaxy S18,2018,4861,,,,5G,4,32
+77074730,smartphone,Apple,IPhone 12 Pro,2020,3781,,,,5G,16,8
+82013394,smartphone,Xiaomi,Redmi A7,2020,1551,,,,5G,10,4
+62315387,smartphone,Google,Pixel 1,2016,3580,,,,3G,1,8
+37146515,smartphone,Apple,IPhone 9,2017,4926,,,,3G,16,8
+90346383,smartphone,Google,Pixel 3,2018,4339,,,,4G,16,16
+79670537,smartphone,Apple,IPhone 9,2017,5182,,,,4G,1,64
+92985562,smartphone,Apple,IPhone 9,2017,4986,,,,4G,2,2
+84844259,smartphone,Google,Pixel 6,2021,1978,,,,5G,8,32
+95639485,smartphone,Google,Pixel 6,2021,2564,,,,4G,4,128
+58002211,smartphone,Samsung,Galaxy S17,2017,4246,,,,5G,10,1
+54881786,smartphone,Samsung,Galaxy S22,2022,1150,,,,3G,16,4
+83199438,smartphone,Xiaomi,Redmi A9,2022,1253,,,,5G,4,8
+37841089,smartphone,Apple,IPhone 12,2020,3210,,,,5G,1,32
+53118049,smartphone,Xiaomi,Redmi A9,2022,1071,,,,4G,16,128
+59246010,smartphone,Google,Pixel 3 Pro,2018,4171,,,,5G,4,64
+99570396,smartphone,Xiaomi,Redmi A5,2018,2401,,,,5G,12,2
+75635977,smartphone,Apple,IPhone 12,2020,3115,,,,3G,4,4
+85129400,smartphone,Google,Pixel 6 Pro,2021,2046,,,,4G,12,128
+70397887,smartphone,Apple,IPhone 11,2019,2975,,,,3G,8,128
+46370040,smartphone,Apple,IPhone 8,2016,5287,,,,3G,10,128
+26308721,smartphone,Samsung,Galaxy S18,2018,3341,,,,4G,12,1
+66163294,smartphone,Apple,IPhone 9 Pro,2017,4406,,,,5G,10,64
+92330070,smartphone,Samsung,Galaxy S18,2018,3750,,,,5G,16,2
+57288548,smartphone,Xiaomi,Redmi A7 Pro,2020,1096,,,,4G,10,1
+16987972,smartphone,Google,Pixel 2,2017,2709,,,,4G,10,16
+78818159,smartphone,Google,Pixel 6 Pro,2021,2340,,,,3G,2,64
+64480266,smartphone,Xiaomi,Redmi A5,2018,2522,,,,4G,8,32
+93794359,smartphone,Google,Pixel 3,2018,3465,,,,5G,10,16
+42911658,smartphone,Xiaomi,Redmi A8 Pro,2021,2198,,,,5G,4,64
+89966069,smartphone,Apple,IPhone 10,2018,3971,,,,4G,4,1
